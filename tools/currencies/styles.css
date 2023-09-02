@@ -657,6 +657,7 @@ background-color: var(--palmix-light-transparent)
 	fill: rgb(146 146 146);
     width: 13px;
     height: 13px;
+	transition: all .15s ease-in-out;
 }
 .icobase:hover svg{
 	fill: rgb(84 84 84);
