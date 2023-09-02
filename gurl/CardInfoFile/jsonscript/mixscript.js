@@ -313,7 +313,7 @@ s = PostUrlInSite_Answer;
 s = shortLink;
 }
         var t = $("#linkShareforcopy").val();
-        var n = $(".answercardinfo:eq(0)").html();
+        var n = $(".answercardinfo .collapse .text-success:eq(0)").html();
         var fb = $("#Infoaboutpublisher .sharer.sharer-fb").attr("href");
         fb = fb.replace(s, t);
         $("#Infoaboutpublisher .sharer.sharer-fb").attr("href", fb);
