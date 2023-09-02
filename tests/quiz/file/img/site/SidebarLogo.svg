@@ -1,0 +1,48 @@
+<svg id="_2" data-name="2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="467" height="400" viewBox="0 0 467 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #de0015;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #0d6efd;
+      }
+
+      .cls-2 {
+        filter: url(#filter);
+      }
+
+      .cls-3 {
+        filter: url(#filter-2);
+      }
+
+      .cls-4, .cls-6 {
+        fill: #fff;
+      }
+    </style>
+    <filter id="filter" x="232.5" y="100.938" width="140.375" height="215.437" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="92.188" y="100.938" width="140.344" height="215.437" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Color_Fill_2" data-name="Color Fill 2" class="cls-1" d="M233.044,27.4c-0.023,1.181,0,323.14,0,323.14v1.035h199.89a8.31,8.31,0,0,0,4.143-1.035c14.856-8.931,5.4-18.5-2.071-30.036-0.043-.085-110.525-167.819-184.355-279.639h0s-3.864-5.562-5.179-7.25C242.675,30.122,236.514,27.4,233.044,27.4Z"/>
+  <path id="Color_Fill_2_copy" data-name="Color Fill 2 copy" class="cls-1" d="M233.953,27.4c0.023,1.181,0,323.14,0,323.14v1.035H34.063a8.31,8.31,0,0,1-4.143-1.035c-14.856-8.931-5.4-18.5,2.071-30.036,0.043-.085,110.525-167.819,184.355-279.639h0s3.864-5.562,5.179-7.25C224.322,30.122,230.483,27.4,233.953,27.4Z"/>
+  <path id="Color_Fill_2_copy_2" data-name="Color Fill 2 copy 2" class="cls-2" d="M232.526,100.933c-0.015.785,0,214.746,0,214.746v0.689h132.4a5.492,5.492,0,0,0,2.744-.689c9.841-5.934,3.579-12.3-1.372-19.96-0.028-.057-73.21-111.526-122.114-185.838h0s-2.56-3.7-3.431-4.818A12.842,12.842,0,0,0,232.526,100.933Z"/>
+  <path id="Color_Fill_2_copy_2-2" data-name="Color Fill 2 copy 2" class="cls-3" d="M232.526,100.933c0.015,0.785,0,214.746,0,214.746v0.689h-132.4a5.494,5.494,0,0,1-2.745-.689c-9.84-5.934-3.578-12.3,1.372-19.96,0.028-.057,73.211-111.526,122.114-185.838h0s2.56-3.7,3.43-4.818A12.847,12.847,0,0,1,232.526,100.933Z"/>
+  <path id="Color_Fill_5" data-name="Color Fill 5" class="cls-4" d="M228.9,106.112l3.107-5.179h1.036l2.071,6.215-1.036,209.211h-3.107Z"/>
+  <path id="Color_Fill_4" data-name="Color Fill 4" class="cls-5" d="M288.972,253.182c2.048-2.84,6.856,2.145,10.357,8.285,4.76-3.616-2.673-13.55-7.25-16.571-9.063-4.76-22.926-2.942-20.714,2.071,6.261-1.186,13-.579,13.464,2.072-19.557,50.792-95.591,35.525-99.428,4.143,0.87-3.616,9.127-4.762,7.25-8.286s-9.327-.629-14.5,2.071c-10.345,5.035-11.316,10.169-8.286,10.357,5.359-.473,7.007-4.008,8.286-2.071C196.863,296.607,248.983,320.372,288.972,253.182Z"/>
+  <path class="cls-5" d="M217.016,206.562c7.723,0,13.984,8.815,13.984,19.688s-6.261,19.688-13.984,19.688-13.985-8.815-13.985-19.688S209.292,206.562,217.016,206.562Zm34.156-2.062c7.723,0,13.984,8.584,13.984,19.172s-6.261,19.172-13.984,19.172-13.984-8.584-13.984-19.172S243.449,204.5,251.172,204.5Z"/>
+  <ellipse class="cls-6" cx="215.969" cy="222.109" rx="3.625" ry="6.234"/>
+  <ellipse id="Ellipse_2_copy" data-name="Ellipse 2 copy" class="cls-6" cx="250.125" cy="221.078" rx="3.625" ry="6.203"/>
+</svg>

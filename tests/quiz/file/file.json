@@ -1,0 +1,1129 @@
+{
+	"count": 6,
+	"result": [
+      {
+			"title": "أ",
+			"id":"A",
+			"description": "شاخصات (إشارات) التحذير",
+			"item": [{
+				"type": "image/svg+xml",
+				"size": 3916,
+				"name": "1",
+				"extension": "svg",
+				"description": "طريق وعرة أو مشوشة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 2958,
+				"name": "2",
+				"extension": "svg",
+				"description": "انعطاف حاد إلى اليسار",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 2957,
+				"name": "3",
+				"extension": "svg",
+				"description": "انعطاف حاد إلى اليمين",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 12284,
+				"name": "4",
+				"extension": "svg",
+				"description": "انعطاف شديد الالتواء نحو اليسار",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 12274,
+				"name": "5",
+				"extension": "svg",
+				"description": "انعطاف شديد الالتواء نحو اليمين",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 3031,
+				"name": "6",
+				"extension": "svg",
+				"description": "انعطاف إلى اليسار وثم إلى اليمين",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 3034,
+				"name": "7",
+				"extension": "svg",
+				"description": "انعطاف إلى اليمين وثم إلى اليسار",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 12085,
+				"name": "8",
+				"extension": "svg",
+				"description": "طريق ملتوية",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 3334,
+				"name": "9",
+				"extension": "svg",
+				"description": "الطريق آخذة في الضيق",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 1439,
+				"name": "10",
+				"extension": "svg",
+				"description": "جسر ضيق",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 2225,
+				"name": "11",
+				"extension": "svg",
+				"description": "أشغال على الطريق",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 148389,
+				"name": "12",
+				"extension": "svg",
+				"description": "مفترق تقاطع طرق",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 2853,
+				"name": "13",
+				"extension": "svg",
+				"description": "مفترق تفرع طرق إلى اليسار",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 2856,
+				"name": "14",
+				"extension": "svg",
+				"description": "مفترق تفرع طرق إلى اليمين",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 2981,
+				"name": "15",
+				"extension": "svg",
+				"description": "مفترق تفرع طرق إلى اليمين والى اليسار",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 2971,
+				"name": "16",
+				"extension": "svg",
+				"description": "مفترق تفرعات: نحو اليسار وثم نحو اليمين",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 2978,
+				"name": "17",
+				"extension": "svg",
+				"description": "مفترق تفرعات: نحو اليمين وثم نحو اليسار",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 4149,
+				"name": "18",
+				"extension": "svg",
+				"description": "حركة سير دائرية على بعد 50-150 متر",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 10945,
+				"name": "19",
+				"extension": "svg",
+				"description": "آلة ضوئية على بعد 50-150 متر",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 3020,
+				"name": "20",
+				"extension": "svg",
+				"description": "اندماج شارع فيه حق الأولوية مع طريق جانبية من اليمين<br/>(ممنوع الاستدارة إلى الطريق الجانبية)",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 3020,
+				"name": "21",
+				"extension": "svg",
+				"description": "اندماج شارع فيه حق الأولوية مع طريق جانبية من اليسار<br/>(ممنوع الاستدارة إلى الطريق الجانبية)",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 12127,
+				"name": "22",
+				"extension": "svg",
+				"description": "اندماج مع شارع فيه حق الأولوية<br/>(ممنوع الاستدارة إلى اليسار)",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 12069,
+				"name": "23",
+				"extension": "svg",
+				"description": "اندماج مع شارع فيه حق الأولوية<br/>(ممنوع الاستدارة إلى اليمين)",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 10222,
+				"name": "24",
+				"extension": "svg",
+				"description": "اكتظاظ في حركة السير أمامك",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 6294,
+				"name": "24-1",
+				"extension": "svg",
+				"description": "ازدحام في حركة السير امامك (شاخصة تضيء).<br/>استعد لإمكانية التمهل وانتبه لازدحام حركة السير ولائم سرعة سيرك لحركة السير ولوضع الطريق.",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 3488,
+				"name": "25",
+				"extension": "svg",
+				"description": "ملتقى سكة حديد",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 5160,
+				"name": "28",
+				"extension": "svg",
+				"description": "الاقتراب من ملتقى سكة حديد على بعد 250م",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 6464,
+				"name": "29",
+				"extension": "svg",
+				"description": "الاقتراب من ملتقى سكة حديد على بعد 170م",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 4134,
+				"name": "30",
+				"extension": "svg",
+				"description": "الاقتراب من ملتقى سكة حديد على بعد 100م",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 6091,
+				"name": "31",
+				"extension": "svg",
+				"description": "مكان ملتقى سكة حديد، خط واحد. هذه الإشارة هي التحذير الأخير قبل ملتقى سكة حديد تمهل حتى إمكانية التوقف قبل الملتقى واعبر السكة بسير متواصل وبدون تأخير، لا تتوقف على السكة.",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 7261,
+				"name": "32",
+				"extension": "svg",
+				"description": "مكان ملتقى سكة حديد - أكثر من خط واحد على بعد 10م",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 3505,
+				"name": "33",
+				"extension": "svg",
+				"description": "أمامك إشارة \"قف\"",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 3426,
+				"name": "34",
+				"extension": "svg",
+				"description": "منحدر خطر<br/>(مع ذكر نسبة الانحدار أو بدونها)",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 13041,
+				"name": "35",
+				"extension": "svg",
+				"description": "خطر التزحلق",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 2436,
+				"name": "36",
+				"extension": "svg",
+				"description": "أمامك ممر للمشاة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 6562,
+				"name": "37",
+				"extension": "svg",
+				"description": "مشاة بالقرب من المكان",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 3075,
+				"name": "38",
+				"extension": "svg",
+				"description": "أمامك حركة سير بالاتجاهين<br/>(توضع على بداية المقطع)",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 1409,
+				"name": "39",
+				"extension": "svg",
+				"description": "ضوضاء طائرات على ارتفاع منخفض",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 3389,
+				"name": "40",
+				"extension": "svg",
+				"description": "مكان خطر لم تُحدد له شاخصة خاصة<br/>(يُذكر نوع الخطر على الشاخصة <a href=\"#A43\">أ-43</a>)",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 8900,
+				"name": "43",
+				"extension": "svg",
+				"description": "شاخصة للتحذير والإرشاد والمنع- للإعلام",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 3612,
+				"name": "46",
+				"extension": "svg",
+				"description": "مطبات أمامك",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 4599,
+				"name": "47",
+				"extension": "svg",
+				"description": "الإشارة تحذر من حيوانات برية في الطريق",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 4876,
+				"name": "48",
+				"extension": "svg",
+				"description": "مركبة زراعية تقطع الطريق",
+				"audio": false
+			}]
+		},
+		{
+			"title": "ب",
+			"id":"B",
+            "description": "شاخصات (إشارات) الإرشاد",
+			"item": [{
+				"type": "image/svg+xml",
+				"size": 2298,
+				"name": "1",
+				"extension": "svg",
+				"description": "مغلق أمام جميع المركبات بما في ذلك عربات اليد (من كلا الاتجاهين)",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 160439,
+				"name": "2",
+				"extension": "svg",
+				"description": "مغلق أمام جميع المركبات بما في ذلك عربات اليد (شارع باتجاه واحد)",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 4555,
+				"name": "3",
+				"extension": "svg",
+				"description": "ممنوع الاستدارة نحو اليسار",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 4523,
+				"name": "4",
+				"extension": "svg",
+				"description": "ممنوع الاستدارة نحو اليمين",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 162949,
+				"name": "5",
+				"extension": "svg",
+				"description": "ممنوع الاستدارة إلى اليمين للسير في الاتجاه المعاكس",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 162922,
+				"name": "6",
+				"extension": "svg",
+				"description": "ممنوع الاستدارة إلى اليسار للسير في الاتجاه المعاكس",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 1114,
+				"name": "7",
+				"extension": "svg",
+				"description": "أعط حق الأولوية في الطريق الضيقة لحركة السير المقابلة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 4307,
+				"name": "8",
+				"extension": "svg",
+				"description": "ممنوع التجاوز أو العبور عن مركبة ميكانيكية تسير على أكثر من عجلتين في نفس اتجاه السير",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 6169,
+				"name": "9",
+				"extension": "svg",
+				"description": "نهاية مقطع الطريق الذي يسري عليه قيد التجاوز",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 4191,
+				"name": "10",
+				"extension": "svg",
+				"description": "لا يجوز لمركبة تجارية يزيد وزنها الإجمالي المسموح به عن 4 أطنان أن تتجاوز أو أن تمر عن مركبة ميكانيكية تسير على اكثر من عجلتين",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 5211,
+				"name": "11",
+				"extension": "svg",
+				"description": "نهاية مقطع الطريق الذي يسري عليه قيد التجاوز",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 2339,
+				"name": "12",
+				"extension": "svg",
+				"description": "ممنوع دخول المركبات الميكانيكية باستثناء الدراجة النارية بدون عربة جانبية",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 7822,
+				"name": "13",
+				"extension": "svg",
+				"description": "ممنوع دخول الدراجات النارية",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 4541,
+				"name": "14",
+				"extension": "svg",
+				"description": "ممنوع الدخول جميع المركبات الميكانيكية",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 5291,
+				"name": "15",
+				"extension": "svg",
+				"description": "ممنوع دخول المركبات الميكانيكية التجارية التي يزيد وزنها الإجمالي المسموح به عما هو مسجل في الشاخصة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 3644,
+				"name": "16",
+				"extension": "svg",
+				"description": "ممنوع دخول جميع المركبات التي يزيد وزنها الإجمالي المسموح به عما هو مسجل في الشاخصة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 4455,
+				"name": "17",
+				"extension": "svg",
+				"description": "ممنوع دخول مركبة وحمولتها والتي يزيد عرضها عما هو مسجل في الشاخصة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 14083,
+				"name": "18",
+				"extension": "svg",
+				"description": "ممنوع دخول مركبة وحمولتها والتي يزيد ارتفاعها عما هو مسجل في الشاخصة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 10719,
+				"name": "20",
+				"extension": "svg",
+				"description": "سرعة خاصة : ممنوع السير بسرعة تزيد عن عدد الكم/ساعة المسجل في الشاخصة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 4019,
+				"name": "21",
+				"extension": "svg",
+				"description": "نهاية المقطع الذي فيه السرعة الخاصة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 9455,
+				"name": "24",
+				"extension": "svg",
+				"description": "الدخول إلى طريق أو طرق بلدية",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 3163,
+				"name": "25",
+				"extension": "svg",
+				"description": "نهاية الطريق أو الطرق البلدية",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 161354,
+				"name": "28",
+				"extension": "svg",
+				"description": "ممنوع وقوف مركبة في الطريق في الجهة التي أُقيمت فيها الشاخصة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 1597,
+				"name": "29",
+				"extension": "svg",
+				"description": "ممنوع الوقوف والتوقف في الطريق في الجهة التي أُقيمت فيها الشاخصة إلا لتنفيذ أمر قانوني",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 13028,
+				"name": "30",
+				"extension": "svg",
+				"description": "ممنوع وقوف مركبة تجارية يزيد وزنها الإجمالي المسموح به عن 10000كغم في المنطقة التي أُقيمت في بدايتها الشاخصة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 13317,
+				"name": "31",
+				"extension": "svg",
+				"description": "نهاية المنطقة التي يُمنع فيها وقوف مركبة تجارية يزيد وزنها الإجمالي المسموح به عن 10000كغم",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 9799,
+				"name": "32",
+				"extension": "svg",
+				"description": "نهاية المنطقة التي يُمنع فيها الوقوف أو التوقف<br/>(إلغاء الشاخصتين رقم : <a href=\"#B28\">ب-28</a> و <a href=\"#B29\">ب-29</a>)",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 14132,
+				"name": "33",
+				"extension": "svg",
+				"description": "الدخول إلى منطقة يحظر فيها دخول مركبة تعليم السواقة أثناء التعليم ما عدا الباص",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 5905,
+				"name": "34",
+				"extension": "svg",
+				"description": "نهاية المنطقة التي يحظر فيها دخول مركبة تعليم السواقة أثناء التعليم",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 24024,
+				"name": "35",
+				"extension": "svg",
+				"description": "يجوز السفر في الشارع أو في المسلك للقطار الخفيف وللباص والصالون العمومي وللمركبات التي تنقل على الأقل عدد الركاب المذكور في الشاخصة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 8264,
+				"name": "36",
+				"extension": "svg",
+				"description": "أعطِ حق الأولوية لحركة السير في الطريق القاطعة أمامك",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 10340,
+				"name": "37",
+				"extension": "svg",
+				"description": "قف !<br/>وأعطِ حق الأولوية لحركة السير في الطريق القاطعة أمامك",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 19231,
+				"name": "38",
+				"extension": "svg",
+				"description": "قف !<br/>(شاخصة متنقلة)",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 20200,
+				"name": "39",
+				"extension": "svg",
+				"description": "تقدم بحذر<br/>(شاخصة متنقلة)",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 9309,
+				"name": "40",
+				"extension": "svg",
+				"description": "سر إلى اليمين من أمام الشاخصة<br/>إذا كان السهم باللون الأصفر يدل على اتجاه السير للمواصلات العمومية فقط",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 9253,
+				"name": "41",
+				"extension": "svg",
+				"description": "سر إلى اليسار من أمام الشاخصة<br/>إذا كان السهم باللون الأصفر يدل على اتجاه السير للمواصلات العمومية فقط",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 19005,
+				"name": "42",
+				"extension": "svg",
+				"description": "سر إلى اليمين من خلف الشاخصة<br/>اذا كان السهم باللون الأصفر يدل على اتجاه السير للمواصلات العمومية فقط",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 19060,
+				"name": "43",
+				"extension": "svg",
+				"description": "سر إلى اليسار من خلف الشاخصة<br/>اذا كان السهم باللون الأصفر يدل على اتجاه السير للمواصلات العمومية فقط",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 9201,
+				"name": "44",
+				"extension": "svg",
+				"description": "سر إلى الأمام (إذا كان السهم مائلاً فسر باتجاه السهم)<br/>إذا كان السهم باللون الأصفر يدل على اتجاه السير للمواصلات العمومية فقط",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 9867,
+				"name": "45",
+				"extension": "svg",
+				"description": "سر إلى اليمين أو إلى الأمام<br/>إذا كان السهم باللون الأصفر يدل على اتجاه السير للمواصلات العمومية فقط",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 10156,
+				"name": "46",
+				"extension": "svg",
+				"description": "سر إلى اليسار أو إلى الأمام<br/>إذا كان السهم باللون الأصفر يدل على اتجاه السير للمواصلات العمومية فقط",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 11791,
+				"name": "47",
+				"extension": "svg",
+				"description": "سر إلى اليمين أو إلى اليسار<br/>إذا كان السهم باللون الأصفر يدل على اتجاه السير للمواصلات العمومية فقط",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 13653,
+				"name": "48",
+				"extension": "svg",
+				"description": "أعطِ حق الأولوية لحركة السير القاطعة طريقك والتي تسير حول الدوار واعبر الدوار من جانبه الأيمن",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 8722,
+				"name": "49",
+				"extension": "svg",
+				"description": "يجوز عبور المكان الموسوم بهذه الشاخصة من اليمين أو من اليسار<br/>إذا كان السهم باللون الأصفر يدل على اتجاه السير للمواصلات العمومية فقط",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 8259,
+				"name": "50",
+				"extension": "svg",
+				"description": "اعبر المكان الموسوم بالشاخصة من جانبه الأيمن",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 8322,
+				"name": "51",
+				"extension": "svg",
+				"description": "اعبر المكان الموسوم بالشاخصة من جانبه الأيسر",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 9738,
+				"name": "52",
+				"extension": "svg",
+				"description": "طريق للمركبات الميكانيكية فقط",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 9520,
+				"name": "53",
+				"extension": "svg",
+				"description": "طريق للمركبات الميكانيكية التي تستطيع ويجوز لها السير بسرعة لا تقل عن ما هو مسجل في الشاخصة بالكم/ساعة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 10436,
+				"name": "54",
+				"extension": "svg",
+				"description": "الدخول إلى طريق سريعة : ممنوع دخول المشاة والدراجات الهوائية والمركبات البطيئة وعربات اليد والحيوانات ولكل مركبة لا تستطيع ولا يجوز لها السير بالسرعة المذكورة في الشاخصة ب-53",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 10829,
+				"name": "55",
+				"extension": "svg",
+				"description": "نهاية الطريق السريعة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 47325,
+				"name": "57",
+				"extension": "svg",
+				"description": "مكان إنزال واصعاد الركاب للصالون العمومي بدون انتظار",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 54713,
+				"name": "58",
+				"extension": "svg",
+				"description": "محطة صالون عمومي : ممنوع وقوف أو توقف أية مركبة أخرى باستثناء إنزال الركاب",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 54714,
+				"name": "59",
+				"extension": "svg",
+				"description": "نهاية منطقة محطة الصالون العمومي",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 11630,
+				"name": "60",
+				"extension": "svg",
+				"description": "ممنوع دخول التراكتورات ومركبات العمل",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 12110,
+				"name": "61",
+				"extension": "svg",
+				"description": "ممنوع دخول الحيوانات أو العربات التي تجرها الحيوانات",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 11777,
+				"name": "62",
+				"extension": "svg",
+				"description": "ممنوع دخول الدراجات الهوائية",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 12832,
+				"name": "63",
+				"extension": "svg",
+				"description": "سبيل للدراجات الهوائية فقط",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 17024,
+				"name": "63-1",
+				"extension": "svg",
+				"description": "سبيل للدراجات الهوائية وللمشاة فقط",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 17660,
+				"name": "63-2",
+				"extension": "svg",
+				"description": "سبيلان منفردان للدراجات الهوائية وللمشاة فقط",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 11381,
+				"name": "64",
+				"extension": "svg",
+				"description": "ممنوع دخول المشاة بما في ذلك طرف الطريق",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 11633,
+				"name": "65",
+				"extension": "svg",
+				"description": "سبيل للمشاة فقط",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 10144,
+				"name": "66",
+				"extension": "svg",
+				"description": "ممنوع دخول مركبة تنقل مواد خطرة والملزمة بوسم بموجب القانون",
+				"audio": true
+			}]
+		},
+		{
+			"title": "ج",
+			"id":"C",
+           "description": "شاخصات (إشارات) الاستعلامات",
+			"item": [{
+				"type": "image/svg+xml",
+				"size": 12417,
+				"name": "1",
+				"extension": "svg",
+				"description": "موقف للمركبات ، وإذا ذُكر نوع من المركبات في اللافتة التي تحت الشاخصة فيكون الموقف للمركبات المذكورة فقط .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 8059,
+				"name": "4",
+				"extension": "svg",
+				"description": "طريق بدون مخرج",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 8344,
+				"name": "5",
+				"extension": "svg",
+				"description": "لك حق الأولوية في الطريق الضيقة بالنسبة لحركة السير من الاتجاه المعاكس",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 8176,
+				"name": "6",
+				"extension": "svg",
+				"description": "الدخول إلى مقطع طريق فيها حركة السير باتجاه السهم فقط (طريق ذات اتجاه واحد) وحتى المفترق القريب أو لغاية الشاخصة أ-38",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 8346,
+				"name": "6-1",
+				"extension": "svg",
+				"description": "حركة السير باتجاه السهم الأبيض مسموحة لجميع المركبات ، أما المركبات التي سُمح له بالسير بموجب الشاخصة ب-35 فيجوز لها السير في الاتجاه المعاكس .",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 11210,
+				"name": "7",
+				"extension": "svg",
+				"description": "مكان عبور المشاة",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 34897,
+				"name": "28",
+				"extension": "svg",
+				"description": "لافتة إرشاد قبل المفترق : تُظهر شكل المفترق . سهم عريض : طريق رئيسية - سهم رفيع : طريق ثانوية .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 22981,
+				"name": "29",
+				"extension": "svg",
+				"description": "لافتة إرشاد قبل محول في طريق سريعة .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 11417,
+				"name": "38",
+				"extension": "svg",
+				"description": "مكان وقوف لمركبة معاق - مشلول الأرجل",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 11042,
+				"name": "39",
+				"extension": "svg",
+				"description": "عدد المسالك في الشارع آخذ في التزايد",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 10891,
+				"name": "40",
+				"extension": "svg",
+				"description": "عدد المسالك في الشارع آخذ في التناقص",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 14691,
+				"name": "44",
+				"extension": "svg",
+				"description": "يجوز الوقوف على الرصيف كما هو موسوم في الشاخصة، وذلك للمركبات الخصوصية والخصوصية المزدوجة الاستعمال والمركبات التجارية التي لا يزيد وزنها الإجمالي المسموح به عن 2200كغم",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 16225,
+				"name": "45",
+				"extension": "svg",
+				"description": "شارع مختلط",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 16364,
+				"name": "46",
+				"extension": "svg",
+				"description": "نهاية الشارع المختلط",
+				"audio": true
+			}]
+		},
+		{
+			"title": "د",
+			"id":"D",
+           "description": "الشاخصات (الإشارات) المرسومة على سطح الطريق",
+			"item": [{
+				"type": "image/svg+xml",
+				"size": 5507,
+				"name": "1",
+				"extension": "svg",
+				"description": "على من يسوق مركبة أو حيوان أن يسوق مركبته أو الحيوان في المسلك الأيمن الأقصى ولا يجوز له عبور الخط بجسم المركبة أو بقسمٍ منه إلا من اجل التجاوز أو من اجل تنفيذ أمرٍ قانوني",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 5932,
+				"name": "2",
+				"extension": "svg",
+				"description": "خطوط متقاطعة متوازية : خطوط مسلك في شارع ذو ثلاثة مسالك أو اكثر - على من يسوق مركبة أو حيوان أن يسوق مركبته أو الحيوان في المسلك الأيمن الأقصى ولا يجوز له عبور الخطوط بجسم المركبة أو بقسمٍ منه إلا من اجل التجاوز أو من اجل تنفيذ أمرٍ قانوني",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 5951,
+				"name": "3",
+				"extension": "svg",
+				"description": "خط متقطع: خط محور الشارع أو خط مسلك<br/>خط متقطع مزدوج باللون الأصفر ويُستعمل لوسم مسلك للمواصلات العمومية : يجوز السفر في المسلك للمركبات المذكورة في الشاخصة <a href=\"#B35\">ب-35</a>",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 5165,
+				"name": "4",
+				"extension": "svg",
+				"description": "خط فاصل متواصل : إذا وُسم الشارع بخط فاصل متواصل فعلى السائق أن يسوق مركبته أو يقود الحيوان على الجانب الأيمن للخط ولا يجوز له عبور الخط بجسم المركبة أو بقسمٍ منه",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 5609,
+				"name": "5",
+				"extension": "svg",
+				"description": "خط متقطع متراص (خط توجيه) : يشير إلى ظهور خط فاصل متواصل ، على سائق المركبة التوجه بمركبته إلى المسلك الأيمن قبل بداية الخط الفاصل المتواصل .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 5578,
+				"name": "6",
+				"extension": "svg",
+				"description": "خط متقطع بجانب خط فاصل متواصل : يجوز اختراق الخطوط إذا كان الخط المتقطع على يمين الخط الفاصل المتواصل وإذا كانت الطريق خالية .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 5294,
+				"name": "7",
+				"extension": "svg",
+				"description": "خط حدود : يشير الخط إلى حافة الشارع في المكان التي لا توجد فيه أحجار حافة . على سائق المركبة الميكانيكية أن يسوق مركبته على الجانب الأيسر للخط ولا يجوز له العبور إلى يمين الخط إلا من اجل منع وقوع حادث أو منع عرقلة لحركة السير",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 5821,
+				"name": "8",
+				"extension": "svg",
+				"description": "خط توقف : مكان توقف المركبة أو الحيوان<br/>(قبل الخط وقريباً منه) عندما يكون هناك واجب التوقف .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 7624,
+				"name": "9",
+				"extension": "svg",
+				"description": "خط مستطيلات: يشير إلى تغيير وجهة المسلك وذلك للاستدارة إلى اليمين أو إلى اليسار فقط .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 8078,
+				"name": "10",
+				"extension": "svg",
+				"description": "مكان عبور للمشاة : إذا قُسِّم مكان العبور إلى قسمين ، فعلى الماشي أن يعبر من القسم الأيمن لمكان العبور .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 10277,
+				"name": "12",
+				"extension": "svg",
+				"description": "خطوط توجيه للاستدارة في المفترقات (خطوط متقطعة أو أزرار)",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 13061,
+				"name": "13",
+				"extension": "svg",
+				"description": "أسهم للسير في المفترق<br/>يجوز عبور المفترق من المسلك الموسوم بالسهم فقط باتجاه السهم .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 8493,
+				"name": "14",
+				"extension": "svg",
+				"description": "جزر سير (بأشكال مختلفة) ، موسومة على الشارع . لا يجوز لسائق المركبة أو الحيوان السير أو الوقوف عليها .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 6608,
+				"name": "15",
+				"extension": "svg",
+				"description": "أحجار حافة مصبوغة باللون الأحمر والأبيض<br/>ممنوع التوقف أو الوقوف في الشارع إلا لتنفيذ أمر قانوني .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 5803,
+				"name": "16",
+				"extension": "svg",
+				"description": "مكان ممنوع الوقوف عليه : ممنوع الوقوف داخل المساحة الموسومة على سطح الشارع.",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 6681,
+				"name": "17",
+				"extension": "svg",
+				"description": "مكان توقف لأنواع معينة من المركبات في المكان الذي لا يوجد فيه خليج : لا يجوز توقف مركبة في المساحة المستطيلة التي يشكلها طول حافة الشارع وعرض الوسم ، إلا إذا كانت المركبة من النوع الذي أُقيمت له شاخصة (محطة باص ، صالون عمومي وما شابه ذلك)<br/>من اجل إنزال واصعاد الركاب فقط",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 6294,
+				"name": "18",
+				"extension": "svg",
+				"description": "مكان توقف لأنواع معينة من المركبات في المكان الذي يوجد فيه خليج لهذا الغرض :<br/>لا يجوز توقف مركبة داخل الخليج أو بجانب الخط المتقطع. يجوز توقف مركبة من اجل إنزال أو اصعاد الركاب فقط في داخل الخليج إذا كانت المركبة من النوع الذي ذُكر بأنه يُسمح له بالتوقف بواسطة شاخصة .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 6598,
+				"name": "20",
+				"extension": "svg",
+				"description": "أحجار حافة مصبوغة بالأزرق بالتناوب<br/>يجوز الوقوف على الشارع بجانب أحجار الحافة بواسطة بطاقات وقوف",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 6613,
+				"name": "21",
+				"extension": "svg",
+				"description": "أحجار حافة مصبوغة بالأحمر والأصفر :<br/>ممنوع التوقف إلا لأنواع المركبات التي سُمح بتوقفها بواسطة شاخصة (محطة باص يعمل على خط خدمة ، محطة صالون عمومي ، محطة لنقل الجنود) .",
+				"audio": true
+			}]
+		},
+		{
+			"title": "هـ",
+			"id":"E",
+           "description": "الآلات الضوئية",
+			"item": [{
+				"type": "image/svg+xml",
+				"size": 5740,
+				"name": "1",
+				"extension": "svg",
+				"description": "<b>((ضوء أحمر))</b><br/>قف ! و إذا وُسم خط وقوف فتوقف قبل خط الوقوف ، فإذا لم يوجد فقف قبل ممر المشاة ، أما إذا لم يوسم خط وقوف أو ممر مشاة فقف بجانب الآلة الضوئية القريبة",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 5784,
+				"name": "2",
+				"extension": "svg",
+				"description": "<b>((ضوء أحمر مع ضوء أصفر))</b></br/> قف كما ذُكر بالنسبة للشاخصة هـ-1 ، حتى ظهور الضوء الأخضر . يُحظر العبور عن خط الوقوف أو ممر المشاة أو الدخول إلى المفترق ما دام الضوء الأحمر مضيئاً مع الضوء الأصفر. استعد للسير عندما تتغير الإشارة",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 6029,
+				"name": "3",
+				"extension": "svg",
+				"description": "<b>((ضوء أخضر))</b><br/> تقدم ! يجوز السير إلى الأمام والى اليمين والى اليسار ما لم تكن هناك شاخصة إرشاد فوق الآلة الضوئية والتي تشير إلى خلاف ذلك و إذا ظهر ضوء اخضر متقطع فمعناه بأن الضوء الأخضر سينتهي ويظهر بعده الضوء الأصفر",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 6029,
+				"name": "5",
+				"extension": "svg",
+				"description": "<b>((ضوء أصفر))</b><br/> على من يقترب من المفترق أن يقف كما ذُكر بالنسبة للشاخصة <a href=\"#E1\">هـ-1</a> ، إلا إذا لم يكن بإمكان السائق أن يتوقف بأمان قبل المفترق<br/>وعلى من دخل المفترق أن يخليه فوراً",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 5867,
+				"name": "6",
+				"extension": "svg",
+				"description": "آلة ضوئية خاصة للمركبات قبل ممر مشاة فيه آلة ضوئية للمشاة أو قبل أي عائق آخر في الطريق<br/> <b>((ضوء أحمر))</b> <br/>قف قبل خط التوقف وإذا لم يكن هناك خط توقف فقبل ممر المشاة",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 5867,
+				"name": "7",
+				"extension": "svg",
+				"description": "آلة ضوئية خاصة للمركبات قبل ممر مشاة فيه آلة ضوئية للمشاة أو قبل أي عائق آخر في الطريق</br/> <b>((ضوء أصفر))</b><br/>(أ) ضوء اصفر متقطع : تقدم بانتباه مع مراعاة أحكام الشاخصات <br/>(ب) ضوء اصفر ثابت : كمدلول الضوء الأصفر في شاخصة <a href=\"#E5\">هـ-5</a>",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 7419,
+				"name": "8",
+				"extension": "svg",
+				"description": "آلة ضوئية خاصة للمركبات قبل منعطف أو تحذير عام أو قبل ممر مشاة<br/>ضوء اصفر متقطع مع أو بدون شكل ماشي <br/>(أ) تقدم بحذر مع مراعاة أحكام الشاخصات .<br/>(ب) إذا أُقيمت آلة ضوئية للمشاة بجانب ممر المشاة فعلى سائق المركبة أن يُمَكِن الماشي من عبور الشارع بأمان .",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 6609,
+				"name": "9",
+				"extension": "svg",
+				"description": "آلة ضوئية خاصة بالمشاة بجانب ممر المشاة.<br/>شكل شخص واقف باللون الأحمر <br/>يُحظر عبور الشارع وعلى من يتواجد في الشارع أن يخليه فوراً .",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 7475,
+				"name": "10",
+				"extension": "svg",
+				"description": "آلة ضوئية خاصة بالمشاة بجانب ممر المشاة.<br/>شكل شخص ماشي باللون الأخضر<br/>يجوز عبور الشارع بحذر على ممر المشاة .",
+				"audio": false
+			}, {
+				"type": "image/svg+xml",
+				"size": 5286,
+				"name": "11",
+				"extension": "svg",
+				"description": "ضوء احمر مزدوج متقطع<br/>قف قبل خط التوقف وإذا لم يوجد خط توقف فقبل الحاجز القريب وإذا لم يوجد حاجز فعلى مسافة لا تقل عن 4م من خط السكة القريب ، وذلك لغاية توقف الضوء الأحمر المتقطع",
+				"audio": false
+			}]
+		},
+		{
+			"title": "و",
+			"id":"F",
+           "description": "الشاخصات (الإشارات) المساعدة",
+			"item": [{
+				"type": "image/svg+xml",
+				"size": 5876,
+				"name": "1",
+				"extension": "svg",
+				"description": "<b>حاجز قبل ملتقى سكة حديد:</b><br/> إذا كان الحاجز في حالة نزول أو في وضع أفقي ، فعلى عابر الطريق التوقف قبله",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 6009,
+				"name": "2",
+				"extension": "svg",
+				"description": "<b>حاجز قبل مكان عمل أو لسد طريق</b> من قِبل سلطة مخولة : الطريق مسدودة ، إذا لم يتم سد الطريق على عرضها ، فيجوز لعابر الطريق تجاوز الحاجز والاستمرار بحذر على طول مكان العمل، إذا تم سد كل الطريق ، فيجوز لعابر الطريق التقدم فقط بالاتجاه الذي يتم توجيهه إليه بواسطة شاخصة مناسبة .",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 6598,
+				"name": "3",
+				"extension": "svg",
+				"description": "أحجار الحافة مدهونة باللون الأسود والأبيض : لإظهار وإبراز الحافات أو الفواصل أو الجزر المبنية",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 6139,
+				"name": "7",
+				"extension": "svg",
+				"description": "أزرار مع أو بدون عاكس ضوء لإظهار وإبراز ترتيبات السير أو وسم في الطريق وحسب لون الوسم",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 8485,
+				"name": "8",
+				"extension": "svg",
+				"description": "حاجز لوقاية المارة : بإغلاق مساحة الشارع أمام المشاة ، لا يجوز للماشي دخول مساحة الطريق التي يسدها الحاجز",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 8321,
+				"name": "9",
+				"extension": "svg",
+				"description": "شاخصة تحذير وإرشاد في ملتقى تفرع طرق: على سائق المركبة أن يتمهل بالسير ويتابع سيره بالاتجاهات الموسومة باسهم على الشاخصة . في الأمكنة التي تنفذ فيها أشغال على الطريق تكون الألوان برتقالي - ابيض.",
+				"audio": true
+			}, {
+				"type": "image/svg+xml",
+				"size": 7219,
+				"name": "10",
+				"extension": "svg",
+				"description": "شاخصة تحذير وإرشاد في منعطف حاد : على سائق المركبة أن يتمهل بالسير ويتابع سيره بالاتجاه الموسوم باسهم على الشاخصة. في الأمكنة التي تنفذ فيها أشغال على الطريق تكون الألوان برتقالي - ابيض.",
+				"audio": true
+			}]
+		}
+
+
+
+	]
+}

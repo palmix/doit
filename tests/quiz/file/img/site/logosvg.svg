@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        fill: #f8f9fa;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linejoin: round;
+        stroke-opacity: 0;
+        stroke-width: 1px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        stroke: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        stroke: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="249.5" y1="499" x2="249.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c2126"/>
+      <stop offset="1" stop-color="#21303f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="154.603" y1="352.281" x2="344.709" y2="70.438" gradientUnits="userSpaceOnUse">
+      <stop offset="0.28" stop-opacity="0.6"/>
+      <stop offset="0.72" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="223.427" y1="428.562" x2="276.417" y2="350" xlink:href="#linear-gradient-2"/>
+    <radialGradient id="radial-gradient" cx="250" cy="201" r="102" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dc3545"/>
+      <stop offset="1" stop-color="#dc3545"/>
+    </radialGradient>
+  </defs>
+  <g>
+    <ellipse class="cls-1" cx="249.5" cy="249.5" rx="250.5" ry="249.5"/>
+    <path id="Ellipse_1_copy_5" data-name="Ellipse 1 copy 5" class="cls-2" d="M249.651,70.441A179.232,179.232,0,0,1,397.272,351.288C371.2,314.836,251,184,251,184S119.39,329.384,102.722,352.285A179.231,179.231,0,0,1,249.651,70.441Z"/>
+    <path id="Ellipse_1_copy_8" data-name="Ellipse 1 copy 8" class="cls-3" d="M249.651,428.559A178.706,178.706,0,0,0,379.929,372.41C379.853,372.438,362,350,362,350s-40.365,52-112,52-112-50-112-50-18.151,20.9-18.083,20.984A178.7,178.7,0,0,0,249.651,428.559Z"/>
+    <path id="Ellipse_3_copy" data-name="Ellipse 3 copy" class="cls-4" d="M250,99c83.947,0,152,67.829,152,151.5a185.961,185.961,0,0,1-8,52.5L251,143,108,303s-10-24.063-10-52.5C98,166.829,166.053,99,250,99Z"/>
+  </g>
+  <g id="line_copy" data-name="line copy">
+    <path id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-5" d="M248.047,236.163h5.208v23.394h-5.208V236.163Z"/>
+    <path class="cls-5" d="M249.349,208.906h2.6v14.28h-2.6v-14.28Z"/>
+    <path id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-5" d="M246.745,277.743h7.812V303.7h-7.812V277.743Z"/>
+    <path class="cls-5" d="M231.163,330.955h14.28v38.976h-14.28V330.955Z"/>
+    <path id="Rectangle_3_copy" data-name="Rectangle 3 copy" class="cls-5" d="M255.859,330.955h14.28v38.976h-14.28V330.955Z"/>
+  </g>
+</svg>

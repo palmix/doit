@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>cm-resize demo</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.29.0/codemirror.min.css" rel="stylesheet" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.29.0/codemirror.min.js"></script>
+
+        <link href="./styles.css" rel="stylesheet" />
+        <script src="../dist/cm-resize.js"></script>
+    </head>
+    <body>
+        <h1><a href="https://github.com/Sphinxxxx/cm-resize" target="_blank">cm-resize</a> demo</h1>
+        <main>
+            <textarea id="text1">Example with the default handle.&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;...</textarea>
+        
+            <textarea id="text2">Example with two handles,&#10;custom cssClass and resizableWidth/Height only.&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;...</textarea>
+        
+            <div id="joystick3"></div>
+            <textarea id="text3">Example with a custom handle element.&#10;This allows for handle UI outside of the editor area.&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;...</textarea>
+        </main>
+
+        <script >
+            //Default
+            var cm1 = CodeMirror.fromTextArea(document.querySelector('#text1'));
+            cmResize(cm1);
+            
+            
+            //Custom cssClass
+            var cm2 = CodeMirror.fromTextArea(document.querySelector('#text2'));
+            cmResize(cm2, {
+                resizableHeight: false,
+                cssClass: 'handle handle2 handle-w',
+            });
+            cmResize(cm2, {
+                resizableWidth: false,
+                cssClass: 'handle handle2 handle-h',
+            });
+            
+            
+            //Custom handle
+            var cm3 = CodeMirror.fromTextArea(document.querySelector('#text3'));
+            cmResize(cm3, {
+                handle: document.querySelector('#joystick3'),
+                //resizableWidth: true,
+                //resizableHeight: true,
+                //minWidth: 200,
+                //minHeight: 100,
+                //cssClass: 'cm-resize-handle',
+            });
+        </script>
+    </body>
+</html>

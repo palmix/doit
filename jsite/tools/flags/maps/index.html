@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title> خرائط</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="css/ie.css">
+    <script type="text/javascript" src="js/html5.js"></script>
+    <![endif]-->
+</head>
+<body class="bg1">
+<script src="Gammap.js?1" type="text/javascript"></script>
+<script src="GeoMap.js" type="text/javascript"></script>
+<script src="Gdark.js" type="text/javascript"></script>
+<div id="mapdiv" style="width: 1000px; height: 450px;"></div>
+<script type="text/javascript">
+var map = AmCharts.makeChart("mapdiv",{
+type: "map",
+theme: "dark",
+projection: "mercator",
+panEventsEnabled : true,
+backgroundColor : "#FFFFFF",
+backgroundAlpha : 1,
+zoomControl: {
+zoomControlEnabled : true
+},
+dataProvider : {
+map : "worldHigh",
+getAreasFromMap : true,
+areas :
+[
+	{
+		"id": "RU",
+		"showAsSelected": true
+	},
+	{
+		"id": "DZ",
+		"showAsSelected": true
+	},
+	{
+		"id": "ZM",
+		"showAsSelected": true
+	}
+]
+},
+areasSettings : {
+autoZoom : true,
+color : "#D6D6D6",
+colorSolid : "#FF5608",
+selectedColor : "#FF5608",
+outlineColor : "#9C9C9C",
+rollOverColor : "#FF7308",
+rollOverOutlineColor : "#666666"
+}
+});
+</script>
+</body>
+</html>

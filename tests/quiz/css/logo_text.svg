@@ -1,0 +1,63 @@
+<svg id="_2" data-name="2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #de0015;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #0d6efd;
+      }
+
+      .cls-2 {
+        filter: url(#filter);
+      }
+
+      .cls-3 {
+        filter: url(#filter-2);
+      }
+
+      .cls-4, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        font-size: 88px;
+        fill: #242424;
+        font-family: "Maiandra GD";
+      }
+
+      .cls-8 {
+        font-size: 32px;
+        fill: #626262;
+        font-family: "Courier New";
+        font-weight: 700;
+      }
+    </style>
+    <filter id="filter" x="248.5" y="105" width="135.5" height="208" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="113" y="105" width="135.5" height="208" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Color_Fill_2" data-name="Color Fill 2" class="cls-1" d="M249,34c-0.022,1.14,0,312,0,312v1H442a8.028,8.028,0,0,0,4-1c14.344-8.622,5.216-17.867-2-29-0.041-.082-106.715-162.034-178-270h0s-3.731-5.371-5-7C258.3,36.63,252.351,34,249,34Z"/>
+  <path id="Color_Fill_2_copy" data-name="Color Fill 2 copy" class="cls-1" d="M250,34c0.022,1.14,0,312,0,312v1H57a8.029,8.029,0,0,1-4-1c-14.344-8.622-5.216-17.867,2-29,0.041-.082,106.715-162.034,178-270h0s3.731-5.371,5-7C240.7,36.63,246.649,34,250,34Z"/>
+  <path id="Color_Fill_2_copy_2" data-name="Color Fill 2 copy 2" class="cls-2" d="M248.5,105c-0.015.758,0,207.343,0,207.343v0.665H376.341a5.3,5.3,0,0,0,2.65-.665c9.5-5.73,3.455-11.873-1.325-19.272-0.027-.055-70.687-107.682-117.9-179.432h0s-2.472-3.569-3.312-4.652A12.4,12.4,0,0,0,248.5,105Z"/>
+  <path id="Color_Fill_2_copy_2-2" data-name="Color Fill 2 copy 2" class="cls-3" d="M248.5,105c0.015,0.758,0,207.343,0,207.343v0.665H120.659a5.3,5.3,0,0,1-2.65-.665c-9.5-5.73-3.455-11.873,1.325-19.272,0.027-.055,70.687-107.682,117.905-179.432h0s2.471-3.569,3.312-4.652A12.4,12.4,0,0,1,248.5,105Z"/>
+  <path id="Color_Fill_5" data-name="Color Fill 5" class="cls-4" d="M245,110l3-5h1l2,6-1,202h-3Z"/>
+  <path id="Color_Fill_4" data-name="Color Fill 4" class="cls-5" d="M303,252c1.978-2.742,6.62,2.071,10,8,4.6-3.491-2.581-13.083-7-16-8.75-4.6-22.135-2.84-20,2,6.045-1.145,12.554-.559,13,2-18.883,49.042-92.3,34.3-96,4,0.84-3.491,8.812-4.6,7-8s-9.006-.607-14,2c-9.988,4.861-10.925,9.818-8,10,5.174-.457,6.765-3.87,8-2C214.066,293.929,264.39,316.875,303,252Z"/>
+  <path class="cls-5" d="M233.5,207c7.456,0,13.5,8.507,13.5,19s-6.044,19-13.5,19S220,236.493,220,226,226.044,207,233.5,207Zm33-2c7.456,0,13.5,8.283,13.5,18.5S273.956,242,266.5,242,253,233.717,253,223.5,259.044,205,266.5,205Z"/>
+  <ellipse class="cls-6" cx="232.5" cy="222" rx="3.5" ry="6"/>
+  <ellipse id="Ellipse_2_copy" data-name="Ellipse 2 copy" class="cls-6" cx="265.5" cy="221" rx="3.5" ry="6"/>
+  <text id="PalMix" class="cls-7" x="117.894" y="430.192">PalMix</text>
+  <text id="Driving_Lessons" data-name="Driving Lessons" class="cls-8" x="106.655" y="460.787">Driving Lessons</text>
+</svg>

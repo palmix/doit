@@ -1,0 +1,191 @@
+input {
+    -webkit-appearance: none
+}
+
+.refresh {
+    position: sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    font-size: 13px;
+    padding: 25px 10px 10px;
+    text-align: center;
+}
+
+.refresh a {
+    background: #555;
+    border-left: none;
+    border-right: none;
+    font-weight: 700;
+    padding: 10px 25px;
+    color: #fff;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
+.refresh a:hover {
+    background: #007bff;
+}
+
+.key_section {
+    padding: 0;
+    border: 1px solid #e1e1e1;
+    margin: 30px 0;
+    background: #fff;
+    text-align: center;
+}
+
+.key_section .input-wrap-33,
+.key_section .input-wrap-50,
+.key_section .input-wrap-100 {
+    margin: 20px 15px;
+    text-align: center
+}
+
+.key_section input {
+    -webkit-appearance: none;
+    background: #fdfdfd;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 1px solid #f0f0f0;
+    font-family: 'PT Mono', monospace;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+.key_section .input-wrap-33 input {
+    margin: 10px;
+    width: 29%;
+}
+
+.key_section .input-wrap-50 input {
+    margin: 10px;
+    width: 45%;
+}
+
+.key_section .input-wrap-100 input {
+    margin: 10px;
+    width: 94%;
+}
+
+.key_section .description {
+    font-weight: 400
+}
+
+.key_section h2 {
+    font-size: 14px;
+    background: #f7f7f7;
+    border-bottom: 1px solid #e1e1e1;
+    border-top: none;
+    text-align: right;
+    margin: 0;
+    padding:15px;
+    font-weight: 700;
+}
+
+
+
+section .info {
+    display: block;
+    margin: 0;
+    clear: both;
+    width: 100%;
+    border-bottom: 1px solid #eee;
+    padding: 0 0 15px;
+}
+
+section .info ul,
+section .info ol {
+    margin: 5px 0 5px 10px;
+}
+
+section .info li {
+    margin: 0 0 0 15px;
+    padding: 0;
+    font-size: 14px;
+}
+
+.info p{
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+p.heading {
+    font-size: 15px;
+    font-weight: 700;
+    padding-bottom: 0;
+    margin: 20px 0 5px;
+}
+  @media all and (max-width: 950px) {
+    .key_section .input-wrap-33 input {
+        width: 45%;
+    }
+}
+  @media all and (max-width: 860px) {
+    section .description-title {
+        display: none;
+    }
+	   section .description {
+        display: none
+    }
+    section .refresh {
+        padding: 35px 10px 10px;
+    }
+ }
+@media all and (max-width: 650px) {
+    .key_section input{font-size:12px}
+    .key_section .input-wrap-33 input,
+    .key_section .input-wrap-50 input,
+    .key_section .input-wrap-100 input {
+        width: 94%;
+    }
+
+     p.heading {
+        font-size: 13px
+    }
+    section p {
+        font-size: 13px
+    }
+ .three-lines {
+ margin:7px 5px 0 0
+ }
+}
+  .blink-copied {
+    opacity: 0;
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    padding: 3px 8px;
+    color: #fff;
+    text-align: center;
+    background-color: #000;
+    border-radius: .25rem;
+    text-align: center;
+    transition: opacity .5s ease-out;
+    width: 80px;
+}
+  .blink-copied.active {
+    opacity: 0.8;
+    transition: none;
+}
+
+.blink-copied::before {
+    top: -5px;
+    left: 50%;
+    margin-left: -5px;
+    content: "";
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 0 5px 5px;
+    border-bottom-color: #000;
+    position: absolute;
+}
+.adsgoogles{
+    text-align: center;
+    max-height: 100px;
+    height: 90px;
+}

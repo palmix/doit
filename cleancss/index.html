@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html dir="rtl">
+<head>
+  <meta charset="utf-8"/>
+  <title>تنظيف  محسن CSS سريع وفعال</title>
+  <link href='https://fonts.googleapis.com/css?family=Droid Arabic Naskh|Droid Arabic Kufi' rel='stylesheet'/>
+  <link rel="stylesheet" type="text/css" href="css/vendor/normalize.css"/>
+  <link rel="stylesheet" type="text/css" href="css/home.css"/>
+  <script src="js/optimizer.js"></script>
+  <script src="js/drag-drop.js"></script>
+  <script src="js/settings.js"></script>
+</head>
+<body>
+  <noscript>
+نظرًا لأن clean-css هي أداة JavaScript ، فإنها تتطلب تشغيل JavaScript في المستعرض الخاص بك.
+  </noscript>
+  <article class="content">
+    <section class="drag-target">
+      <ol class="dropped-files" title="إسحب ملفاتك هنا لتحسينها"></ol>
+      <form class="settings settings--collapsed js-settings">
+        <fieldset class="settings__group">
+          <select class="settings__option settings__option--version" name="version">
+            <option value="v4.2.2" selected>4.2.2 (الأحدث)</option>
+          </select>
+        </fieldset>
+        <fieldset class="settings__group settings__group--advanced">
+          <div class="settings__group__wrapper">
+            <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_0" name="level[0]" checked disabled />
+            <label class="settings__label" for="level_0">المستوى 0 من التحسين</label>
+          </div>
+          <div class="settings__group__wrapper">
+            <input class="settings__option settings__option--checkbox js-settings-level-1 js-settings-option" type="checkbox" id="level_1" name="level[1]" checked />
+            <label class="settings__label" for="level_1">المستوى 1 من التحسين</label>
+          </div>
+          <ul class="fine-grained-options js-settings-level-1-options" data-visibility-class="fine-grained-options--hidden">
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_cleanup_charsets" name="level[1][cleanupCharsets]" checked />
+              <label class="settings__label" for="level_1_cleanup_charsets">تنظيف charset@ في القواعد</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_normalize_urls" name="level[1][normalizeUrls]" checked />
+              <label class="settings__label" for="level_1_normalize_urls">تطبيع عناوين URL</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_optimize_background" name="level[1][optimizeBackground]" checked />
+              <label class="settings__label" for="level_1_optimize_background">تحسين خصائص <em>background</em></label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_optimize_border_radius" name="level[1][optimizeBorderRadius]" checked />
+              <label class="settings__label" for="level_1_optimize_border_radius">تحسين خصائص <em>border-radius</em></label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_optimize_filter" name="level[1][optimizeFilter]" checked />
+              <label class="settings__label" for="level_1_optimize_filter">تحسن خصائص <em>filter</em> / <em>-ms-filter</em></label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_optimize_font_weight" name="level[1][optimizeFontWeight]" checked />
+              <label class="settings__label" for="level_1_optimize_font_weight">تحسين خصائص <em>Font-Weight</em></label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_optimize_outline" name="level[1][optimizeOutline]" checked />
+              <label class="settings__label" for="level_1_optimize_outline">تحسين خصائص <em>Outline</em></label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_remove_empty" name="level[1][removeEmpty]" checked />
+              <label class="settings__label" for="level_1_remove_empty">إزالة القواعد الفارغة والكتل المتداخلة (بعد تحسينات المستوى 1)</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_remove_negative_paddings" name="level[1][removeNegativePaddings]" checked />
+              <label class="settings__label" for="level_1_remove_negative_paddings">إزالة <em>padding</em>s السلبية</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_remove_quotes" name="level[1][removeQuotes]" checked />
+              <label class="settings__label" for="level_1_remove_quotes">إزالة الاقتباسات</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_remove_whitespace" name="level[1][removeWhitespace]" checked />
+              <label class="settings__label" for="level_1_remove_whitespace">إزالة المسافة البيضاء</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_replace_multiple_zeros" name="level[1][replaceMultipleZeros]" checked />
+              <label class="settings__label" for="level_1_replace_multiple_zeros">استبدال الأصفار المتعددة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_replace_time_units" name="level[1][replaceTimeUnits]" checked />
+              <label class="settings__label" for="level_1_replace_time_units">استبدال وحدات الوقت</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_replace_zero_units" name="level[1][replaceZeroUnits]" checked />
+              <label class="settings__label" for="level_1_replace_zero_units">إستبدال وحدات <em>0</em></label>
+            </li>
+            <li class="fine-grained-options__option">
+              <label class="settings__label" for="level_1_rounding_precision">دقة تقريب الوحدة</label>
+              <input class="settings__option js-settings-option" type="text" id="level_1_rounding_precision" name="level[1][roundingPrecision]" value="" placeholder="e.g 5 or *=off,px=4" />
+            </li>
+            <li class="fine-grained-options__option">
+              <select class="settings__option settings__option--select js-settings-option" id="level_1_selectors_sorting_method" name="level[1][selectorsSortingMethod]">
+                <option value="natural">طريقة الفرز الانتقائي: طبيعي</option>
+                <option value="none">طريقة فرز المحددات: لا شيء</option>
+                <option value="standard" selected>طريقة الفرز الانتقائي: قياسي</option>
+              </select>
+            </li>
+            <li class="fine-grained-options__option">
+              <select class="settings__option settings__option--select js-settings-option" id="level_1_special_comments" name="level[1][specialComments]">
+                <option value="all" selected>تعليقات خاصة: احتفظ بكل شيء</option>
+                <option value="1">تعليقات خاصة: قم بإزالة الكل ما عدا الأول</option>
+                <option value="0">التعليقات الخاصة: إزالة الكل</option>
+              </select>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_tidy_at_rules" name="level[1][tidyAtRules]" checked />
+              <label class="settings__label" for="level_1_tidy_at_rules">مرتبة في القواعد</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_tidy_block_scopes" name="level[1][tidyBlockScopes]" checked />
+              <label class="settings__label" for="level_1_tidy_block_scopes">مرتبة في كتلة نطاقات</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_1_tidy_selectors" name="level[1][tidySelectors]" checked />
+              <label class="settings__label" for="level_1_tidy_selectors">محددات مرتبة</label>
+            </li>
+          </ul>
+          <div class="settings__group__wrapper">
+            <input class="settings__option settings__option--checkbox js-settings-option js-settings-level-2" type="checkbox" id="level_2" name="level[2]" />
+            <label class="settings__label" for="level_2">المستوى 2 من التحسين</label>
+          </div>
+          <ul class="fine-grained-options fine-grained-options--hidden js-settings-level-2-options" data-visibility-class="fine-grained-options--hidden">
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_merge_adjacent_rules" name="level[2][mergeAdjacentRules]" checked />
+              <label class="settings__label" for="level_2_merge_adjacent_rules">دمج القواعد المجاورة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_merge_into_shorthands" name="level[2][mergeIntoShorthands]" checked />
+              <label class="settings__label" for="level_2_merge_into_shorthands">دمج المكونات في خصائص الاختزال</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_merge_media" name="level[2][mergeMedia]" checked />
+              <label class="settings__label" for="level_2_merge_media">دمج <em>media@</em> في كتل متداخلة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_merge_non_adjacent_rules" name="level[2][mergeNonAdjacentRules]" checked />
+              <label class="settings__label" for="level_2_merge_non_adjacent_rules">دمج القواعد غير المتجاورة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_merge_semantically" name="level[2][mergeSemantically]" />
+              <label class="settings__label" for="level_2_merge_semantically">الدمج الدلالي</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_override_properties" name="level[2][overrideProperties]" checked />
+              <label class="settings__label" for="level_2_override_properties">تجاوز الخصائص بناءً على الفهم</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_reduce_non_adjacent_rules" name="level[2][reduceNonAdjacentRules]" checked />
+              <label class="settings__label" for="level_2_reduce_non_adjacent_rules">تقليل القواعد غير المجاورة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_remove_duplicate_font_rules" name="level[2][removeDuplicateFontRules]" checked />
+              <label class="settings__label" for="level_2_remove_duplicate_font_rules">إزالة قواعد <em>font-face@</em> المكررة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_remove_duplicate_media_blocks" name="level[2][removeDuplicateMediaBlocks]" checked />
+              <label class="settings__label" for="level_2_remove_duplicate_media_blocks">إزالة كتل <em>media@</em> المتداخلة المكررة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_remove_duplicate_rules" name="level[2][removeDuplicateRules]" checked />
+              <label class="settings__label" for="level_2_remove_duplicate_rules">إزالة القواعد المكررة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_remove_empty" name="level[2][removeEmpty]" checked />
+              <label class="settings__label" for="level_2_remove_empty">إزالة القواعد الفارغة والكتل المتداخلة (بعد تحسينات المستوى 2)</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_remove_unused_at_rules" name="level[2][removeUnusedAtRules]" />
+              <label class="settings__label" for="level_2_remove_unused_at_rules">قم بإزالة <em>counter-style@</em>, <em>font-face@</em>, <em>keyframes@</em> و <em>namespace@</em> وفقًا للقواعد</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="level_2_restructure_rules" name="level[2][restructureRules]" />
+              <label class="settings__label" for="level_2_restructure_rules">إعادة هيكلة القواعد</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <label class="settings__label" for="level_2_skip_properties">تخطي خصائص التحسين</label>
+              <input class="settings__option js-settings-option" type="text" id="level_2_skip_properties" name="level[2][skipProperties]" value="" placeholder="e.g background,font,margin" />
+            </li>
+          </ul>
+        </fieldset>
+        <fieldset class="settings__group">
+          <div class="settings__group__wrapper">
+            <select class="settings__option settings__option--select js-settings-compatibility js-settings-option" id="compatibility" name="compatibility">
+              <option value="" selected>توافق المتصفحات الحديثة (Internet Explorer 10+)</option>
+              <option value="ie9">متوافق مع متصفحات  Internet Explorer 9+</option>
+              <option value="ie8">متوافق مع متصفحات  Internet Explorer 8+</option>
+              <option value="ie7">متوافق مع متصفحات  Internet Explorer 7+</option>
+            </select>
+          </div>
+          <div class="settings__group__wrapper">
+            <input class="settings__option settings__option--checkbox js-settings-format js-settings-option" type="checkbox" id="format" name="format" />
+            <label class="settings__label" for="format">تنسيق الإخراج</label>
+          </div>
+          <ul class="fine-grained-options fine-grained-options--hidden js-settings-format-options" data-visibility-class="fine-grained-options--hidden">
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="format_breaks_after_at_rule" name="format_breaks[afterAtRule]" checked />
+              <label class="settings__label" for="format_breaks_after_at_rule">إدراج فاصل أسطر بعد القواعد</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="format_breaks_after_block_begins" name="format_breaks[afterBlockBegins]" checked />
+              <label class="settings__label" for="format_breaks_after_block_begins">إدراج فاصل أسطر بعد بدء الكتلة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="format_breaks_after_block_ends" name="format_breaks[afterBlockEnds]" checked />
+              <label class="settings__label" for="format_breaks_after_block_ends">إدراج فاصل أسطر بعد انتهاء الكتلة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="format_breaks_after_comment" name="format_breaks[afterComment]" checked />
+              <label class="settings__label" for="format_breaks_after_comment">إدراج فاصل أسطر بعد التعليقات</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="format_breaks_after_property" name="format_breaks[afterProperty]" checked />
+              <label class="settings__label" for="format_breaks_after_property">إدراج فاصل أسطر بعد الخصائص</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="format_breaks_after_rule_begins" name="format_breaks[afterRuleBegins]" checked />
+              <label class="settings__label" for="format_breaks_after_rule_begins">إدراج فاصل أسطر بعد بدء القاعدة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="format_breaks_after_rule_ends" name="format_breaks[afterRuleEnds]" checked />
+              <label class="settings__label" for="format_breaks_after_rule_ends">إدراج فاصل أسطر بعد انتهاء القاعدة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="format_breaks_before_block_ends" name="format_breaks[beforeBlockEnds]" checked />
+              <label class="settings__label" for="format_breaks_before_block_ends">إدراج فاصل أسطر قبل انتهاء الكتلة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="format_breaks_between_selectors" name="format_breaks[betweenSelectors]" checked />
+              <label class="settings__label" for="format_breaks_between_selectors">إدراج فاصل أسطر بين المحددات</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <label class="settings__label" for="format_indent_by">مسافة بادئة مع</label>
+              <input class="settings__option settings__option--number js-settings-option" type="number" min="0" max="16" id="format_indent_by" name="format[indentBy]" value="2" />
+              <select class="settings__option settings__option--inline-select js-settings-option" id="format_indent_with" name="format[indentWith]">
+                <option value="space" selected>المسافة</option>
+                <option value="tab">التبويب</option>
+              </select>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="format_spaces_around_selector_relation" name="format_spaces[aroundSelectorRelation]" checked />
+              <label class="settings__label" for="format_spaces_around_selector_relation">أدخل مسافة بين علاقة المحدد</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="format_spaces_before_block_begins" name="format_spaces[beforeBlockBegins]" checked />
+              <label class="settings__label" for="format_spaces_before_block_begins">أدخل مسافة قبل أن تبدأ الكتلة</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <input class="settings__option settings__option--checkbox js-settings-option" type="checkbox" id="format_spaces_before_value" name="format_spaces[beforeValue]" checked />
+              <label class="settings__label" for="format_spaces_before_value">أدخل مسافة قبل قيمة الخاصية</label>
+            </li>
+            <li class="fine-grained-options__option">
+              <label class="settings__label" for="format_wrap_at">التفاف الخطوط عندما تكون أطول من</label>
+              <input class="settings__option settings__option--number js-settings-option" type="number" min="0" id="format_wrap_at" name="format[wrapAt]" value="" />
+              <label class="settings__label" for="format_wrap_at">حرف</label>
+            </li>
+          </ul>
+        </fieldset>
+        <fieldset class="settings__group">
+          <input class="settings__option settings__option--reset js-settings-reset" type="reset" value="إعادة تعيين الإعدادات الافتراضية" />
+        </fieldset>
+      </form>
+    </section>
+  </article>
+  <footer class="footer">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- انكود 720 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3447265496881655"
+     data-ad-slot="4412230290"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </footer>
+  <textarea class="clipboard-copy"></textarea>
+  <template class="dropped-file-template">
+    <li class="dropped-files__file">
+      <span class="dropped-files__file__name"></span>
+      <span class="dropped-files__file__summary"></span>
+      <a class="dropped-files__file__action dropped-files__file__action--save" href="#" download="test.css">حفظ</a>
+      <a class="dropped-files__file__action dropped-files__file__action--copy" href="#" data-success-label="تم!" data-error-label="خطأ! انظر وحدة التحكم للحصول على التفاصيل" data-original-label="نسخ إلى الحافظة">نسخ إلى الحافظة</a>
+    </li>
+  </template>
+
+      <script
+      type="text/javascript"
+      src="https://get.doitf.com/iframe-resizer/iframeResizer-contentWindow.min.js"
+      defer
+    ></script>
+  <noscript><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/126539ns.gif" /></noscript>
+</body>
+</html>

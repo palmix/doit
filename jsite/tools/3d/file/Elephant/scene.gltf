@@ -1,0 +1,267 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        3.404031991958618,
+        -6.854555130004883,
+        2.5563430786132813
+      ],
+      "min": [
+        -2.6800620555877686,
+        -11.65494441986084,
+        -1.9436190128326416
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.999989926815033,
+        0.999946653842926,
+        0.9998162388801575
+      ],
+      "min": [
+        -0.9999802708625793,
+        -0.9998692870140076,
+        -0.999761164188385
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9946960210800171,
+        0.9988750219345093
+      ],
+      "min": [
+        0.002601000014692545,
+        0.0031610000878572464
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 343134,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 42705,
+      "max": [
+        3.4163858890533447,
+        -6.770139217376709,
+        2.2712581157684326
+      ],
+      "min": [
+        -2.642298936843872,
+        -10.505316734313965,
+        -1.9998819828033447
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2085228,
+      "componentType": 5126,
+      "count": 42705,
+      "max": [
+        0.9999247789382935,
+        0.9999424815177917,
+        0.9999878406524658
+      ],
+      "min": [
+        -0.9999732971191406,
+        -0.9998809695243835,
+        -0.9999914169311523
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 42705,
+      "max": [
+        0.9862610101699829,
+        0.999638020992279
+      ],
+      "min": [
+        0.0015670000575482845,
+        0.033183999359607697
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1372536,
+      "componentType": 5125,
+      "count": 176400,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Abby Gancz (https://sketchfab.com/agancz)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/elephant-in-the-rotunda-26ee59c981964681bf9f4e5eae2a3a26",
+      "title": "Elephant in the Rotunda"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2078136,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 865896,
+      "byteOffset": 2078136,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2597688,
+      "byteOffset": 2944032,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5541720,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_0_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material_0",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -0.4262904512788168,
+        -0.026321721027582293,
+        -0.2361813916787625,
+        0.0,
+        0.20824301903266118,
+        0.1923217891745211,
+        -0.3972973637897325,
+        0.0,
+        0.11449599208071426,
+        -0.4477918096253219,
+        -0.15675195181433577,
+        0.0,
+        4.533769130706787,
+        4.773524284362792,
+        2.0922794342041025,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "Elephant.obj.cleaner.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

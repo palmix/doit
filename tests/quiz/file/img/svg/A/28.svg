@@ -1,0 +1,63 @@
+<svg id="_1_copy_2" data-name="1 copy 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-linejoin: round;
+        stroke-width: 10px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #ff1b2b;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="-4" y="-3" width="509" height="506"/>
+  <g id="_2" data-name="2">
+    <rect class="cls-2" x="64" y="164" width="99" height="330"/>
+  </g>
+  <g id="_1" data-name="1">
+    <path id="Color_Fill_1" data-name="Color Fill 1" class="cls-3" d="M11,175L114,6,217,175H11Z"/>
+    <g>
+      <path id="Color_Fill_2_copy" data-name="Color Fill 2 copy" class="cls-4" d="M62,116c-3.667-3-12.333-11-16-14-3.333,5.333-7.667,10.667-11,16,3.333,3.333,5.45,4.538,16,15S78.731,129.755,62,116Z"/>
+      <path id="Color_Fill_2_copy_7" data-name="Color Fill 2 copy 7" class="cls-4" d="M96,64c-3.667-3-12.333-11-16-14-3.333,5.333-7.667,10.667-11,16,3.333,3.333,5.45,4.537,16,15S112.731,77.755,96,64Z"/>
+      <path id="Color_Fill_2_copy_8" data-name="Color Fill 2 copy 8" class="cls-4" d="M136,68c3.667-3,12.333-11,16-14,3.333,5.333,7.667,10.667,11,16-3.333,3.333-5.45,4.537-16,15S119.269,81.755,136,68Z"/>
+      <path id="Color_Fill_2_copy_10" data-name="Color Fill 2 copy 10" class="cls-4" d="M167,119c3.667-3,12.333-11,16-14,3.333,5.333,7.667,10.667,11,16-3.333,3.333-5.45,4.538-16,15S150.269,132.755,167,119Z"/>
+    </g>
+    <path id="Color_Fill_2_copy_2" data-name="Color Fill 2 copy 2" class="cls-4" d="M158,180V165H135v15h23Z"/>
+    <path id="Color_Fill_2_copy_4" data-name="Color Fill 2 copy 4" class="cls-4" d="M92,180V165H69v15H92Z"/>
+  </g>
+  <g id="_3" data-name="3">
+    <path id="Color_Fill_3_copy_2" data-name="Color Fill 3 copy 2" class="cls-5" d="M69,243v30l89,46V290Z"/>
+    <path id="Color_Fill_3_copy_3" data-name="Color Fill 3 copy 3" class="cls-5" d="M69,300v30l89,46V347Z"/>
+    <path id="Color_Fill_3_copy_4" data-name="Color Fill 3 copy 4" class="cls-5" d="M69,360v30l89,46V407Z"/>
+  </g>
+  <g id="_2-2" data-name="2">
+    <rect class="cls-2" x="335" y="164" width="99" height="330"/>
+  </g>
+  <g id="_1-2" data-name="1">
+    <path id="Color_Fill_1-2" data-name="Color Fill 1" class="cls-3" d="M487,175L384,6,281,175H487Z"/>
+    <g>
+      <path id="Color_Fill_2_copy-2" data-name="Color Fill 2 copy" class="cls-4" d="M436,116c3.667-3,12.333-11,16-14,3.333,5.333,7.667,10.667,11,16-3.333,3.333-5.45,4.538-16,15S419.269,129.755,436,116Z"/>
+      <path id="Color_Fill_2_copy_7-2" data-name="Color Fill 2 copy 7" class="cls-4" d="M402,64c3.667-3,12.333-11,16-14,3.333,5.333,7.667,10.667,11,16-3.333,3.333-5.45,4.537-16,15S385.269,77.755,402,64Z"/>
+      <path id="Color_Fill_2_copy_8-2" data-name="Color Fill 2 copy 8" class="cls-4" d="M362,68c-3.667-3-12.333-11-16-14-3.333,5.333-7.667,10.667-11,16,3.333,3.333,5.45,4.537,16,15S378.731,81.755,362,68Z"/>
+      <path id="Color_Fill_2_copy_10-2" data-name="Color Fill 2 copy 10" class="cls-4" d="M331,119c-3.667-3-12.333-11-16-14-3.333,5.333-7.667,10.667-11,16,3.333,3.333,5.45,4.538,16,15S347.731,132.755,331,119Z"/>
+    </g>
+    <path id="Color_Fill_2_copy_2-2" data-name="Color Fill 2 copy 2" class="cls-4" d="M340,180V165h23v15H340Z"/>
+    <path id="Color_Fill_2_copy_4-2" data-name="Color Fill 2 copy 4" class="cls-4" d="M406,180V165h23v15H406Z"/>
+  </g>
+  <g id="_3-2" data-name="3">
+    <path id="Color_Fill_3_copy_2-2" data-name="Color Fill 3 copy 2" class="cls-5" d="M429,243v30l-89,46V290Z"/>
+    <path id="Color_Fill_3_copy_3-2" data-name="Color Fill 3 copy 3" class="cls-5" d="M429,300v30l-89,46V347Z"/>
+    <path id="Color_Fill_3_copy_4-2" data-name="Color Fill 3 copy 4" class="cls-5" d="M429,360v30l-89,46V407Z"/>
+  </g>
+  <image id="teoria.pmix.net" x="200" y="467" width="99" height="14" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAAAOCAYAAAA7UaIRAAADG0lEQVRYhe1XUWsiQQzOVMFDwUJBwQfBA6FC4Qp96O/L7+uD0APBgtDCHizsgVBhH4SVOeJ98eI4a7e1Yg/8QNTNTCaZJF+yJPDMDc98RUeE6PfM9565dcxz3gPP3PfMdye2oae/6/geEtGCiObHOtQxi+6HY+n/CBxzQkTJqc6XZCCiNhGl8v/iVIacsQvnmW+ISKmjcMxjzywVMyAipa5coofsXgPl1SWiBh5ljvkFsivsX0DHEhkoFThxzDnWdJEZihTZugOc14eePuSi/9kxL2GzUE5GRJewS88V/5QOFo55Sv8yswOfR0TUJKKfjrmAvh9YP4vYo1mdw48te7CmBVvbEXv7xibB5MIxT8xljyG4FgpzzA/yAX0Nle/NxaSQi45Lzzw0yusIrsi3nDHBfjVnSKn2PLMNTgwSxEfsEYyCNRKIKeQFEqBm7GxanjYQG1dYT/iW/y97bFnfB3Q/IgF6xsfrwMeNvUg68TmHPN+hKVyGHPKszxxziqh28KiLSsggz6FYmnTDqJsbORl96wqE3q21RPTtjWCkmnmwUYaPrpFnRq46fxk7VqZXbtmEKmqjStrI4mKPLYWyAc58NSwjd7WyPqIia4G9G+wYZZTdeuYdISKuFGCRB/sJjpcCGSr6aqbUa/v2ICnUOSn3ItgT2lUEF1p6uULD/m+CabItytaWnGX9bSFR7iP7oj7GgkHaO2ICBOMgQMcNLmYBJ6YRyjkFNJk+YwTf9KcqiE1TEu16GXcjy5amcSvU+Dy2L0AHPC7NPAF/Vg1yU3+AEuuRDP0QUKktbfolvaUqltbWKrDBWJcOJia50L7yP17Ybo1xwoNd5T40dpHNDV/vw8oG3Oyvgr6pzu9ogAe/H5nJJwHPJxgowqSrigx6R+aMXuTFtx7++C3TDS5X6OkJ0472jQKNM0XAMjwX5QMNUNlYGgL7xckR9EgAU9ijCdAClSVBo5dEucO+eTipHYABAqs+phi/1+O4mSAn4UBS4qP0syckj/YN2Tcz+yVgHchn7pMcOTrMZYzfmHD+W5zfwL8QzsH4KiCiP8+7m1/2uDCPAAAAAElFTkSuQmCC"/>
+</svg>

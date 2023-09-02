@@ -1,0 +1,29 @@
+{
+	"cont":6,
+	"result":[
+	{
+	"name":"haulage",
+	"number":27
+	},
+	{
+	"name":"motorcycle",
+	"number":31
+	},
+	{
+	"name":"private",
+	"number":20
+	},
+	{
+	"name":"taxi",
+	"number":22
+	},
+	{
+	"name":"tractor",
+	"number":30
+	},
+	{
+	"name":"truck",
+	"number":27
+	}
+	]
+}

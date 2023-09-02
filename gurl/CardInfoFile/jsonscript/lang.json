@@ -1,0 +1,925 @@
+{
+	"result":[
+	{
+	"arabic": "عفار",
+	"english": "Afar",
+	"alpha2": "aa",
+	"alpha3": "aar"
+}, {
+	"arabic": "أبخازيا",
+	"english": "Abkhazian",
+	"alpha2": "ab",
+	"alpha3": "abk"
+}, {
+	"arabic": "الأفريقانية",
+	"english": "Afrikaans",
+	"alpha2": "af",
+	"alpha3": "afr"
+}, {
+	"arabic": "الأكانية",
+	"english": "Akan",
+	"alpha2": "ak",
+	"alpha3": "aka"
+}, {
+	"arabic": "الألبانية",
+	"english": "Albanian",
+	"alpha2": "sq",
+	"alpha3": "alb"
+}, {
+	"arabic": "الأمهرية",
+	"english": "Amharic",
+	"alpha2": "am",
+	"alpha3": "amh"
+}, {
+	"arabic": "العربية",
+	"english": "Arabic",
+	"alpha2": "ar",
+	"alpha3": "ara"
+}, {
+	"arabic": "أراغون",
+	"english": "Aragonese",
+	"alpha2": "an",
+	"alpha3": "arg"
+}, {
+	"arabic": "أرميني",
+	"english": "Armenian",
+	"alpha2": "hy",
+	"alpha3": "arm"
+}, {
+	"arabic": "الأسامية",
+	"english": "Assamese",
+	"alpha2": "as",
+	"alpha3": "asm"
+}, {
+	"arabic": "أفاريك",
+	"english": "Avaric",
+	"alpha2": "av",
+	"alpha3": "ava"
+}, {
+	"arabic": "افستان",
+	"english": "Avestan",
+	"alpha2": "ae",
+	"alpha3": "ave"
+}, {
+	"arabic": "ايمارا",
+	"english": "Aymara",
+	"alpha2": "ay",
+	"alpha3": "aym"
+}, {
+	"arabic": "الأذربيجانية",
+	"english": "Azerbaijani",
+	"alpha2": "az",
+	"alpha3": "aze"
+}, {
+	"arabic": "بشكير",
+	"english": "Bashkir",
+	"alpha2": "ba",
+	"alpha3": "bak"
+}, {
+	"arabic": "بامبارا",
+	"english": "Bambara",
+	"alpha2": "bm",
+	"alpha3": "bam"
+}, {
+	"arabic": "الباسك",
+	"english": "Belarusian",
+	"alpha2": "be",
+	"alpha3": "baq"
+}, {
+	"arabic": "البيلاروسية",
+	"english": "Basque",
+	"alpha2": "eu",
+	"alpha3": "bel"
+}, {
+	"arabic": "البنغالية",
+	"english": "Bengali",
+	"alpha2": "bn",
+	"alpha3": "ben"
+}, {
+	"arabic": "اللغات البيهارية",
+	"english": "Bihari languages",
+	"alpha2": "bh",
+	"alpha3": "bih"
+}, {
+	"arabic": "بيسلاما",
+	"english": "Bislama",
+	"alpha2": "bi",
+	"alpha3": "bis"
+}, {
+	"arabic": "البوسنية",
+	"english": "Bosnian",
+	"alpha2": "bs",
+	"alpha3": "bos"
+}, {
+	"arabic": "بريتون",
+	"english": "Breton",
+	"alpha2": "br",
+	"alpha3": "bre"
+}, {
+	"arabic": "البلغارية",
+	"english": "Bulgarian",
+	"alpha2": "bg",
+	"alpha3": "bul"
+}, {
+	"arabic": "البورمية",
+	"english": "Burmese",
+	"alpha2": "my",
+	"alpha3": "bur"
+}, {
+	"arabic": "الكاتالونية؛ بلنسية",
+	"english": "Catalan; Valencian",
+	"alpha2": "ca",
+	"alpha3": "cat"
+}, {
+	"arabic": "تشامورو",
+	"english": "Chamorro",
+	"alpha2": "ch",
+	"alpha3": "cha"
+}, {
+	"arabic": "الشيشان",
+	"english": "Chechen",
+	"alpha2": "ce",
+	"alpha3": "che"
+}, {
+	"arabic": "صينى",
+	"english": "Chinese",
+	"alpha2": "zh",
+	"alpha3": "chi"
+}, {
+	"arabic": "الكنيسة السلافية السلافية القديمة الكنيسة السلافية البلغارية القديمة الكنيسة السلافية القديمة",
+	"english": "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church Slavonic",
+	"alpha2": "cu",
+	"alpha3": "chu"
+}, {
+	"arabic": "تشوفاش",
+	"english": "Chuvash",
+	"alpha2": "cv",
+	"alpha3": "chv"
+}, {
+	"arabic": "كورنيش",
+	"english": "Cornish",
+	"alpha2": "kw",
+	"alpha3": "cor"
+}, {
+	"arabic": "كورسيكا",
+	"english": "Corsican",
+	"alpha2": "co",
+	"alpha3": "cos"
+}, {
+	"arabic": "كري",
+	"english": "Cree",
+	"alpha2": "cr",
+	"alpha3": "cre"
+}, {
+	"arabic": "التشيكية",
+	"english": "Czech",
+	"alpha2": "cs",
+	"alpha3": "cze"
+}, {
+	"arabic": "الدنماركية",
+	"english": "Danish",
+	"alpha2": "da",
+	"alpha3": "dan"
+}, {
+	"arabic": "الديفهية، جزر المالديف",
+	"english": "Divehi; Dhivehi; Maldivian",
+	"alpha2": "dv",
+	"alpha3": "div"
+}, {
+	"arabic": "هولندي؛ الفلمنكية",
+	"english": "Dutch; Flemish",
+	"alpha2": "nl",
+	"alpha3": "dut"
+}, {
+	"arabic": "دزونكا",
+	"english": "Dzongkha",
+	"alpha2": "dz",
+	"alpha3": "dzo"
+}, {
+	"arabic": "الإنجليزية",
+	"english": "English",
+	"alpha2": "en",
+	"alpha3": "eng"
+}, {
+	"arabic": "اسبرانتو",
+	"english": "Esperanto",
+	"alpha2": "eo",
+	"alpha3": "epo"
+}, {
+	"arabic": "الإستونية",
+	"english": "Estonian",
+	"alpha2": "et",
+	"alpha3": "est"
+}, {
+	"arabic": "نعجة",
+	"english": "Ewe",
+	"alpha2": "ee",
+	"alpha3": "ewe"
+}, {
+	"arabic": "فارويز",
+	"english": "Faroese",
+	"alpha2": "fo",
+	"alpha3": "fao"
+}, {
+	"arabic": "فيجي",
+	"english": "Fijian",
+	"alpha2": "fj",
+	"alpha3": "fij"
+}, {
+	"arabic": "الفنلندية",
+	"english": "Finnish",
+	"alpha2": "fi",
+	"alpha3": "fin"
+}, {
+	"arabic": "فرنسي",
+	"english": "French",
+	"alpha2": "fr",
+	"alpha3": "fre"
+}, {
+	"arabic": "الفريزية الغربية",
+	"english": "Western Frisian",
+	"alpha2": "fy",
+	"alpha3": "fry"
+}, {
+	"arabic": "فولا",
+	"english": "Fulah",
+	"alpha2": "ff",
+	"alpha3": "ful"
+}, {
+	"arabic": "الجورجية",
+	"english": "Georgian",
+	"alpha2": "ka",
+	"alpha3": "geo"
+}, {
+	"arabic": "ألمانية",
+	"english": "German",
+	"alpha2": "de",
+	"alpha3": "ger"
+}, {
+	"arabic": "الغيلية. الغيلية الاسكتلندية",
+	"english": "Gaelic; Scottish Gaelic",
+	"alpha2": "gd",
+	"alpha3": "gla"
+}, {
+	"arabic": "إيرلندي",
+	"english": "Irish",
+	"alpha2": "ga",
+	"alpha3": "gle"
+}, {
+	"arabic": "الجاليكية",
+	"english": "Galician",
+	"alpha2": "gl",
+	"alpha3": "glg"
+}, {
+	"arabic": "مانكس",
+	"english": "Manx",
+	"alpha2": "gv",
+	"alpha3": "glv"
+}, {
+	"arabic": "اليونانية الحديثة (1453-)",
+	"english": "Greek, Modern (1453-)",
+	"alpha2": "el",
+	"alpha3": "gre"
+}, {
+	"arabic": "غواراني",
+	"english": "Guarani",
+	"alpha2": "gn",
+	"alpha3": "grn"
+}, {
+	"arabic": "الغوجاراتية",
+	"english": "Gujarati",
+	"alpha2": "gu",
+	"alpha3": "guj"
+}, {
+	"arabic": "الهايتية. الكريولية الهايتية",
+	"english": "Haitian; Haitian Creole",
+	"alpha2": "ht",
+	"alpha3": "hat"
+}, {
+	"arabic": "الهوسا",
+	"english": "Hausa",
+	"alpha2": "ha",
+	"alpha3": "hau"
+}, {
+	"arabic": "اللغة العبرية",
+	"english": "Hebrew",
+	"alpha2": "he",
+	"alpha3": "heb"
+}, {
+	"arabic": "هيريرو",
+	"english": "Herero",
+	"alpha2": "hz",
+	"alpha3": "her"
+}, {
+	"arabic": "هندي",
+	"english": "Hindi",
+	"alpha2": "hi",
+	"alpha3": "hin"
+}, {
+	"arabic": "هيري موتو",
+	"english": "Hiri Motu",
+	"alpha2": "ho",
+	"alpha3": "hmo"
+}, {
+	"arabic": "الكرواتية",
+	"english": "Croatian",
+	"alpha2": "hr",
+	"alpha3": "hrv"
+}, {
+	"arabic": "المجرية",
+	"english": "Hungarian",
+	"alpha2": "hu",
+	"alpha3": "hun"
+}, {
+	"arabic": "الإيغبو",
+	"english": "Igbo",
+	"alpha2": "ig",
+	"alpha3": "ibo"
+}, {
+	"arabic": "ايسلندي",
+	"english": "Icelandic",
+	"alpha2": "is",
+	"alpha3": "ice"
+}, {
+	"arabic": "أفعل",
+	"english": "Ido",
+	"alpha2": "io",
+	"alpha3": "ido"
+}, {
+	"arabic": "سيتشوان يي Nuosu",
+	"english": "Sichuan Yi; Nuosu",
+	"alpha2": "ii",
+	"alpha3": "iii"
+}, {
+	"arabic": "إينكتيتوت",
+	"english": "Inuktitut",
+	"alpha2": "iu",
+	"alpha3": "iku"
+}, {
+	"arabic": "إنترلينج. أوكسيدنتال",
+	"english": "Interlingue; Occidental",
+	"alpha2": "ie",
+	"alpha3": "ile"
+}, {
+	"arabic": "إنترلينجوا (الرابطة الدولية للغات المساعدة)",
+	"english": "Interlingua (International Auxiliary Language Association)",
+	"alpha2": "ia",
+	"alpha3": "ina"
+}, {
+	"arabic": "الأندونيسية",
+	"english": "Indonesian",
+	"alpha2": "id",
+	"alpha3": "ind"
+}, {
+	"arabic": "Inupiaq",
+	"english": "Inupiaq",
+	"alpha2": "ik",
+	"alpha3": "ipk"
+}, {
+	"arabic": "إيطالي",
+	"english": "Italian",
+	"alpha2": "it",
+	"alpha3": "ita"
+}, {
+	"arabic": "الجاوية",
+	"english": "Javanese",
+	"alpha2": "jv",
+	"alpha3": "jav"
+}, {
+	"arabic": "اليابانية",
+	"english": "Japanese",
+	"alpha2": "ja",
+	"alpha3": "jpn"
+}, {
+	"arabic": "كالاليسوت. جرينلاند",
+	"english": "Kalaallisut; Greenlandic",
+	"alpha2": "kl",
+	"alpha3": "kal"
+}, {
+	"arabic": "الكانادا",
+	"english": "Kannada",
+	"alpha2": "kn",
+	"alpha3": "kan"
+}, {
+	"arabic": "كشميري",
+	"english": "Kashmiri",
+	"alpha2": "ks",
+	"alpha3": "kas"
+}, {
+	"arabic": "كانوري",
+	"english": "Kanuri",
+	"alpha2": "kr",
+	"alpha3": "kau"
+}, {
+	"arabic": "الكازاخستانية",
+	"english": "Kazakh",
+	"alpha2": "kk",
+	"alpha3": "kaz"
+}, {
+	"arabic": "الخمير الوسطى",
+	"english": "Central Khmer",
+	"alpha2": "km",
+	"alpha3": "khm"
+}, {
+	"arabic": "كيكويو. جيكويو",
+	"english": "Kikuyu; Gikuyu",
+	"alpha2": "ki",
+	"alpha3": "kik"
+}, {
+	"arabic": "كينيارواندا",
+	"english": "Kinyarwanda",
+	"alpha2": "rw",
+	"alpha3": "kin"
+}, {
+	"arabic": "القرغيز. قيرغيزستان",
+	"english": "Kirghiz; Kyrgyz",
+	"alpha2": "ky",
+	"alpha3": "kir"
+}, {
+	"arabic": "كومي",
+	"english": "Komi",
+	"alpha2": "kv",
+	"alpha3": "kom"
+}, {
+	"arabic": "كونغو",
+	"english": "Kongo",
+	"alpha2": "kg",
+	"alpha3": "kon"
+}, {
+	"arabic": "الكورية",
+	"english": "Korean",
+	"alpha2": "ko",
+	"alpha3": "kor"
+}, {
+	"arabic": "كوانياما. كوانياما",
+	"english": "Kuanyama; Kwanyama",
+	"alpha2": "kj",
+	"alpha3": "kua"
+}, {
+	"arabic": "كردي",
+	"english": "Kurdish",
+	"alpha2": "ku",
+	"alpha3": "kur"
+}, {
+	"arabic": "لاو",
+	"english": "Lao",
+	"alpha2": "lo",
+	"alpha3": "lao"
+}, {
+	"arabic": "لاتيني",
+	"english": "Latin",
+	"alpha2": "la",
+	"alpha3": "lat"
+}, {
+	"arabic": "لاتفيا",
+	"english": "Latvian",
+	"alpha2": "lv",
+	"alpha3": "lav"
+}, {
+	"arabic": "ليمبورغان. ليمبرغر. ليمبورغيش",
+	"english": "Limburgan; Limburger; Limburgish",
+	"alpha2": "li",
+	"alpha3": "lim"
+}, {
+	"arabic": "اللينغالا",
+	"english": "Lingala",
+	"alpha2": "ln",
+	"alpha3": "lin"
+}, {
+	"arabic": "الليتوانية",
+	"english": "Lithuanian",
+	"alpha2": "lt",
+	"alpha3": "lit"
+}, {
+	"arabic": "اللوكسمبرجية. Letzeburgesch",
+	"english": "Luxembourgish; Letzeburgesch",
+	"alpha2": "lb",
+	"alpha3": "ltz"
+}, {
+	"arabic": "لوبا كاتانغا",
+	"english": "Luba-Katanga",
+	"alpha2": "lu",
+	"alpha3": "lub"
+}, {
+	"arabic": "غاندا",
+	"english": "Ganda",
+	"alpha2": "lg",
+	"alpha3": "lug"
+}, {
+	"arabic": "المقدونية",
+	"english": "Macedonian",
+	"alpha2": "mk",
+	"alpha3": "mac"
+}, {
+	"arabic": "مارشال",
+	"english": "Marshallese",
+	"alpha2": "mh",
+	"alpha3": "mah"
+}, {
+	"arabic": "المالايالامية",
+	"english": "Malayalam",
+	"alpha2": "ml",
+	"alpha3": "mal"
+}, {
+	"arabic": "الماوري",
+	"english": "Maori",
+	"alpha2": "mi",
+	"alpha3": "mao"
+}, {
+	"arabic": "الماراثى",
+	"english": "Marathi",
+	"alpha2": "mr",
+	"alpha3": "mar"
+}, {
+	"arabic": "لغة الملايو",
+	"english": "Malay",
+	"alpha2": "ms",
+	"alpha3": "may"
+}, {
+	"arabic": "مدغشقر",
+	"english": "Malagasy",
+	"alpha2": "mg",
+	"alpha3": "mlg"
+}, {
+	"arabic": "المالطية",
+	"english": "Maltese",
+	"alpha2": "mt",
+	"alpha3": "mlt"
+}, {
+	"arabic": "المنغولية",
+	"english": "Mongolian",
+	"alpha2": "mn",
+	"alpha3": "mon"
+}, {
+	"arabic": "ناورو",
+	"english": "Nauru",
+	"alpha2": "na",
+	"alpha3": "nau"
+}, {
+	"arabic": "نافاجو. نافاهو",
+	"english": "Navajo; Navaho",
+	"alpha2": "nv",
+	"alpha3": "nav"
+}, {
+	"arabic": "نديبيلي ، الجنوب ؛ جنوب نديبيلي",
+	"english": "Ndebele, South; South Ndebele",
+	"alpha2": "nr",
+	"alpha3": "nbl"
+}, {
+	"arabic": "نديبيلي ، الشمال ؛ شمال نديبيلي",
+	"english": "Ndebele, North; North Ndebele",
+	"alpha2": "nd",
+	"alpha3": "nde"
+}, {
+	"arabic": "ندونغا",
+	"english": "Ndonga",
+	"alpha2": "ng",
+	"alpha3": "ndo"
+}, {
+	"arabic": "النيبالية",
+	"english": "Nepali",
+	"alpha2": "ne",
+	"alpha3": "nep"
+}, {
+	"arabic": "نينورسك النرويجية نينورسك ، النرويجية",
+	"english": "Norwegian Nynorsk; Nynorsk, Norwegian",
+	"alpha2": "nn",
+	"alpha3": "nno"
+}, {
+	"arabic": "بوكمال ، النرويجية ؛ النرويجية بوكمال",
+	"english": "Bokmål, Norwegian; Norwegian Bokmål",
+	"alpha2": "nb",
+	"alpha3": "nob"
+}, {
+	"arabic": "النرويجية",
+	"english": "Norwegian",
+	"alpha2": "no",
+	"alpha3": "nor"
+}, {
+	"arabic": "شيشيوا. شيوا. نيانجا",
+	"english": "Chichewa; Chewa; Nyanja",
+	"alpha2": "ny",
+	"alpha3": "nya"
+}, {
+	"arabic": "الأوكيتان (بعد 1500)",
+	"english": "Occitan (post 1500)",
+	"alpha2": "oc",
+	"alpha3": "oci"
+}, {
+	"arabic": "اوجيبوا",
+	"english": "Ojibwa",
+	"alpha2": "oj",
+	"alpha3": "oji"
+}, {
+	"arabic": "أوريا",
+	"english": "Oriya",
+	"alpha2": "or",
+	"alpha3": "ori"
+}, {
+	"arabic": "أورومو",
+	"english": "Oromo",
+	"alpha2": "om",
+	"alpha3": "orm"
+}, {
+	"arabic": "أوسيتيا. الأوسيتيك",
+	"english": "Ossetian; Ossetic",
+	"alpha2": "os",
+	"alpha3": "oss"
+}, {
+	"arabic": "البنجابية. البنجابية",
+	"english": "Panjabi; Punjabi",
+	"alpha2": "pa",
+	"alpha3": "pan"
+}, {
+	"arabic": "اللغة الفارسية",
+	"english": "Persian",
+	"alpha2": "fa",
+	"alpha3": "per"
+}, {
+	"arabic": "بالي",
+	"english": "Pali",
+	"alpha2": "pi",
+	"alpha3": "pli"
+}, {
+	"arabic": "تلميع",
+	"english": "Polish",
+	"alpha2": "pl",
+	"alpha3": "pol"
+}, {
+	"arabic": "البرتغالية",
+	"english": "Portuguese",
+	"alpha2": "pt",
+	"alpha3": "por"
+}, {
+	"arabic": "البشتوية",
+	"english": "Pushto; Pashto",
+	"alpha2": "ps",
+	"alpha3": "pus"
+}, {
+	"arabic": "الكيتشوا",
+	"english": "Quechua",
+	"alpha2": "qu",
+	"alpha3": "que"
+}, {
+	"arabic": "رومانش",
+	"english": "Romansh",
+	"alpha2": "rm",
+	"alpha3": "roh"
+}, {
+	"arabic": "روماني؛ المولدافية. مولدوفا",
+	"english": "Romanian; Moldavian; Moldovan",
+	"alpha2": "ro",
+	"alpha3": "rum"
+}, {
+	"arabic": "روندي",
+	"english": "Rundi",
+	"alpha2": "rn",
+	"alpha3": "run"
+}, {
+	"arabic": "الروسية",
+	"english": "Russian",
+	"alpha2": "ru",
+	"alpha3": "rus"
+}, {
+	"arabic": "سانجو",
+	"english": "Sango",
+	"alpha2": "sg",
+	"alpha3": "sag"
+}, {
+	"arabic": "السنسكريتية",
+	"english": "Sanskrit",
+	"alpha2": "sa",
+	"alpha3": "san"
+}, {
+	"arabic": "السنهالية",
+	"english": "Sinhala; Sinhalese",
+	"alpha2": "si",
+	"alpha3": "sin"
+}, {
+	"arabic": "السلوفاكية",
+	"english": "Slovak",
+	"alpha2": "sk",
+	"alpha3": "slo"
+}, {
+	"arabic": "السلوفينية",
+	"english": "Slovenian",
+	"alpha2": "sl",
+	"alpha3": "slv"
+}, {
+	"arabic": "شمال سامي",
+	"english": "Northern Sami",
+	"alpha2": "se",
+	"alpha3": "sme"
+}, {
+	"arabic": "ساموا",
+	"english": "Samoan",
+	"alpha2": "sm",
+	"alpha3": "smo"
+}, {
+	"arabic": "شونا",
+	"english": "Shona",
+	"alpha2": "sn",
+	"alpha3": "sna"
+}, {
+	"arabic": "السندية",
+	"english": "Sindhi",
+	"alpha2": "sd",
+	"alpha3": "snd"
+}, {
+	"arabic": "صومالي",
+	"english": "Somali",
+	"alpha2": "so",
+	"alpha3": "som"
+}, {
+	"arabic": "سوتو الجنوبية",
+	"english": "Sotho, Southern",
+	"alpha2": "st",
+	"alpha3": "sot"
+}, {
+	"arabic": "الأسبانية؛ قشتالية",
+	"english": "Spanish; Castilian",
+	"alpha2": "es",
+	"alpha3": "spa"
+}, {
+	"arabic": "سردينيا",
+	"english": "Sardinian",
+	"alpha2": "sc",
+	"alpha3": "srd"
+}, {
+	"arabic": "الصربية",
+	"english": "Serbian",
+	"alpha2": "sr",
+	"alpha3": "srp"
+}, {
+	"arabic": "سواتي",
+	"english": "Swati",
+	"alpha2": "ss",
+	"alpha3": "ssw"
+}, {
+	"arabic": "السوندانيز",
+	"english": "Sundanese",
+	"alpha2": "su",
+	"alpha3": "sun"
+}, {
+	"arabic": "السواحيلية",
+	"english": "Swahili",
+	"alpha2": "sw",
+	"alpha3": "swa"
+}, {
+	"arabic": "السويدية",
+	"english": "Swedish",
+	"alpha2": "sv",
+	"alpha3": "swe"
+}, {
+	"arabic": "التاهيتي",
+	"english": "Tahitian",
+	"alpha2": "ty",
+	"alpha3": "tah"
+}, {
+	"arabic": "التاميل",
+	"english": "Tamil",
+	"alpha2": "ta",
+	"alpha3": "tam"
+}, {
+	"arabic": "التتار",
+	"english": "Tatar",
+	"alpha2": "tt",
+	"alpha3": "tat"
+}, {
+	"arabic": "التيلجو",
+	"english": "Telugu",
+	"alpha2": "te",
+	"alpha3": "tel"
+}, {
+	"arabic": "طاجيك",
+	"english": "Tajik",
+	"alpha2": "tg",
+	"alpha3": "tgk"
+}, {
+	"arabic": "تاغالوغ",
+	"english": "Tagalog",
+	"alpha2": "tl",
+	"alpha3": "tgl"
+}, {
+	"arabic": "التايلاندية",
+	"english": "Thai",
+	"alpha2": "th",
+	"alpha3": "tha"
+}, {
+	"arabic": "التبتية",
+	"english": "Tibetan",
+	"alpha2": "bo",
+	"alpha3": "tib"
+}, {
+	"arabic": "التيغرينيا",
+	"english": "Tigrinya",
+	"alpha2": "ti",
+	"alpha3": "tir"
+}, {
+	"arabic": "تونغا (جزر تونغا)",
+	"english": "Tonga (Tonga Islands)",
+	"alpha2": "to",
+	"alpha3": "ton"
+}, {
+	"arabic": "التسوانا",
+	"english": "Tswana",
+	"alpha2": "tn",
+	"alpha3": "tsn"
+}, {
+	"arabic": "تسونجا",
+	"english": "Tsonga",
+	"alpha2": "ts",
+	"alpha3": "tso"
+}, {
+	"arabic": "التركمان",
+	"english": "Turkmen",
+	"alpha2": "tk",
+	"alpha3": "tuk"
+}, {
+	"arabic": "اللغة التركية",
+	"english": "Turkish",
+	"alpha2": "tr",
+	"alpha3": "tur"
+}, {
+	"arabic": "توي",
+	"english": "Twi",
+	"alpha2": "tw",
+	"alpha3": "twi"
+}, {
+	"arabic": "الأويغور. الأويغور",
+	"english": "Uighur; Uyghur",
+	"alpha2": "ug",
+	"alpha3": "uig"
+}, {
+	"arabic": "الأوكرانية",
+	"english": "Ukrainian",
+	"alpha2": "uk",
+	"alpha3": "ukr"
+}, {
+	"arabic": "الأردية",
+	"english": "Urdu",
+	"alpha2": "ur",
+	"alpha3": "urd"
+}, {
+	"arabic": "أوزبكي",
+	"english": "Uzbek",
+	"alpha2": "uz",
+	"alpha3": "uzb"
+}, {
+	"arabic": "فيندا",
+	"english": "Venda",
+	"alpha2": "ve",
+	"alpha3": "ven"
+}, {
+	"arabic": "فيتنامي",
+	"english": "Vietnamese",
+	"alpha2": "vi",
+	"alpha3": "vie"
+}, {
+	"arabic": "فولابوك",
+	"english": "Volapük",
+	"alpha2": "vo",
+	"alpha3": "vol"
+}, {
+	"arabic": "تهرب من دفع الرهان",
+	"english": "Welsh",
+	"alpha2": "cy",
+	"alpha3": "wel"
+}, {
+	"arabic": "الوالون",
+	"english": "Walloon",
+	"alpha2": "wa",
+	"alpha3": "wln"
+}, {
+	"arabic": "الولوف",
+	"english": "Wolof",
+	"alpha2": "wo",
+	"alpha3": "wol"
+}, {
+	"arabic": "خوسا",
+	"english": "Xhosa",
+	"alpha2": "xh",
+	"alpha3": "xho"
+}, {
+	"arabic": "اليديشية",
+	"english": "Yiddish",
+	"alpha2": "yi",
+	"alpha3": "yid"
+}, {
+	"arabic": "اليوروبا",
+	"english": "Yoruba",
+	"alpha2": "yo",
+	"alpha3": "yor"
+}, {
+	"arabic": "تشوانغ, الصينية",
+	"english": "Zhuang; Chuang",
+	"alpha2": "za",
+	"alpha3": "zha"
+}, {
+	"arabic": "الزولو",
+	"english": "Zulu",
+	"alpha2": "zu",
+	"alpha3": "zul"
+}
+]
+}
