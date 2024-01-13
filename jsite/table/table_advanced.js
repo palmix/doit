@@ -2649,7 +2649,7 @@ $.getJSON(getusercode, {
 		numid = numid + 1;
   		var id = "ID1100"+numid;
 
-      $.getJSON("https://freegeoip.app/json/", function(json) {
+      $.getJSON("https://api.ipbase.com/v1/json/", function(json) {
       
         $.ajax({
             url: "https://docs.google.com/forms/d/e/1FAIpQLSdbZyf0SWyvmVImy8ta0R0CauE3Atih4-7uwp5KYIznu2-eeg/formResponse",
